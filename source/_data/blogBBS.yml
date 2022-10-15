@@ -1,0 +1,17 @@
+# 博客论坛
+- name: 博客园
+  url: https://www.cnblogs.com/
+  img: /images/logos/cnblogs_logo.png
+  description: 代码改变世界
+- name: 稀土掘金
+  url: https://juejin.cn/
+  img: /images/logos/juejin_logo.png
+  description: 一个帮助开发者成长的社区
+- name: CSDN
+  url: https://www.csdn.net/
+  img: /images/logos/csdn_logo.png
+  description: 全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
+- name: Stack Overflow
+  url: https://stackoverflow.com/
+  img: /images/logos/stackoverflow.png
+  description: 全球最受程序员欢迎的开发社区

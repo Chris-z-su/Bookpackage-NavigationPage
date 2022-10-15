@@ -1,0 +1,33 @@
+# 休闲娱乐
+- name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+  url: https://www.bilibili.com/
+  img: /images/logos/bilibili.png
+  description: 哔哩哔哩(bilibili.com)是国内知名的视频弹幕网站。
+- name: 虎牙直播-技术驱动娱乐-弹幕式互动直播平台
+  url: https://www.huya.com/
+  img: /images/logos/huya_icon.png
+  description: 虎牙直播是以游戏直播为主的弹幕式互动直播平台。
+- name: AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+  url: http://www.acfun.cn/
+  img: https://cdn.aixifan.com/ico/favicon.ico
+  description: AcFun是国内首家弹幕视频网站，这里有全网独家动漫新番， 友好的弹幕氛围，有趣的UP主，好玩有科技感的虚拟偶像，年轻人都在用。
+- name: 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心
+  url: https://www.ixigua.com/
+  img: https://sf1-cdn-tos.douyinstatic.com/obj/eden-cn/lpqpflo/ixigua_favicon.ico
+  description: 西瓜视频是一个开眼界、涨知识的视频 App。
+- name: 樱花动漫－专注动漫的门户网站
+  url: http://www.yinghuacd.com/
+  img: http://www.yinghuacd.com/js/20180601/favicon.ico
+  description: 樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。
+- name: 首页 - 知乎
+  url: https://www.zhihu.com/
+  img: https://static.zhihu.com/heifetz/favicon.ico
+  description: 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台。
+- name: 三十六计_三十六计网页游戏_游族战神三十六计游戏官网
+  url: https://36.youzu.com/
+  img: https://www.youzu.com/favicon.ico
+  description: 《三十六计》是由游族网络的战神工作室潜心打造的一款优质三国策略网页游戏，以三十六计和一统天下为战略核心，为广大策略爱好者提供了开拓疆土、群雄逐鹿的终极战场，真正开启了新的三国史诗篇章。
+- name: 好看的电视剧_好看的电影_好看的动画片在线免费观看_樱花风车 - 子子影院
+  url: http://ziziyy1.com/
+  img: /images/logos/default.png
+  description: 子子影院收集整理最新好看的电视剧,最新电影,最新动画片在线观看，致力打造专业在线视频网站.

@@ -1,0 +1,21 @@
+# 实用软件
+- name: CCleaner
+  url: https://www.ccleaner.com/
+  img: /images/logos/ccleaner-icon.png
+  description: 一款免费的系统优化和隐私保护工具
+- name: Global Potplayer
+  url: https://potplayer.tv/?lang=zh_CN
+  img: https://t1.daumcdn.net/potplayer/main/img/favicon.ico
+  description: 进不去访问PotPlayer中文网(http://www.potplayercn.com/)，是关于PotPlayer的中文网站，内容有PotPlayer下载,使用教程,插件,直播源,皮肤。PotPlayer支持网络上所有主流的视频音频格式文件，被誉为Windows平台上最优秀的免费影音全能格式播放器。
+- name: PowerToys
+  url: https://github.com/microsoft/PowerToys
+  img: /images/logos/github_black.png
+  description: 微软为 Windows 系统推出的一系列免费实用小工具合集
+- name: Fliqlo
+  url: https://fliqlo.com/
+  img: /images/logos/default.png
+  description: 一款极简主义的时钟屏保软件
+- name: f.lux
+  url: https://justgetflux.com/
+  img: /images/logos/default.png
+  description: 国外开源的护眼软件，通过根据时间调节屏幕颜色，减少蓝光对视力的影响

@@ -1,0 +1,9 @@
+# 浏览器插件
+- name: Greasy Fork
+  url: https://greasyfork.org/zh-CN/
+  img: /images/logos/greasyfork_logo.png
+  description: Greasy Fork - 安全、实用的用户脚本大全
+- name: Brandfetch
+  url: https://brandfetch.com/plugins
+  img: /images/logos/brandfetch_icon.png
+  description: No more context switching! Install our plugin and bring up-to-date logos, colors, fonts, and more straight into your workflow.
