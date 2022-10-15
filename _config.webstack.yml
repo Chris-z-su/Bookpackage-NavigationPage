@@ -81,7 +81,7 @@ aboutPage:
   webmaster:
     head: 关于站长
     name: Chris
-    url: https://chris-z-su.github.io/
+    url: https://chris-z-su.github.io/NavigationPage/
     img: /images/avatar.jpg
     description: 为实现中华民族伟大复兴的中国梦而努力奋斗。
     html: '<br /><span>这个人很懒，什么都没留下。</span>'
