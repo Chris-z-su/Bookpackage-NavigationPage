@@ -28,40 +28,40 @@ userDefinedSearchData:
 expandAll: false
 menu:
   - name: 常用推荐
-    icon: far fa-star
+    icon: fa fa-star
     config: favorite
   - name: 博客论坛
-    icon: far fa-star
+    icon: fa fa-blog
     config: blogBBS
   - name: 学习教育
-    icon: far fa-star
+    icon: fa fa-school
     config: studyTutorial
   - name: 常用工具
-    icon: far fa-star
+    icon: fa fa-briefcase
     submenu:
       - name: 在线工具
-        icon: fas fa-star
+        icon: fa fa-bolt
         config: onlineTools
       - name: 代码托管
-        icon: fas fa-star
+        icon: fa fa-inbox
         config: codeManaged
       - name: 实用软件
-        icon: fas fa-star
+        icon: fa fa-wrench
         config: commonTools
       - name: 浏览器插件
-        icon: far fa-star
+        icon: fa fa-code
         config: plugIn
   - name: 博客收藏
-    icon: far fa-star
+    icon: fa fa-bookmark
     config: favoriteBlog
   - name: 产品设计
-    icon: far fa-star
+    icon: fa fa-palette
     config: productDesign
   - name: 新闻资讯
-    icon: far fa-star
+    icon: fa fa-newspaper
     config: news
   - name: 休闲娱乐
-    icon: far fa-star
+    icon: fa fa-headphones
     config: recreation
 
   # - name: 模板
@@ -71,7 +71,7 @@ menu:
 
 about:
   url: /about/
-  icon: far fa-heart
+  icon: fa fa-user
   name: 关于本站
 
 aboutPage:
