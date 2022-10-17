@@ -9,13 +9,13 @@
   description: 一个懒人的博客。
 - name: LuckySec
   url: http://luckyzmj.cn/
-  img: https://s1.ax1x.com/2020/05/17/YR20js.jpg
+  img: /images/logos/LuckySec.jpg
   description: LuckySecの博客
 - name: 126云导航 - 最好用的浏览器主页
   url: https://www.126yun.cn/
-  img: https://www.126yun.cn/static/theme/navigate/assets/images/favicon.png
+  img: /images/logos/126yun.png
   description: 最好用的浏览器主页，拒绝流氓主页
 - name: 张小驰出没
   url: https://www.moyuzc.cn/
-  img: https://www.moyuzc.cn/img/000.jpg
+  img: /images/logos/moyuzc.jpg
   description: Welcome to my world

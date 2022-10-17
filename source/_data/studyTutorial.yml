@@ -1,7 +1,7 @@
 # 学习教育
 - name: 力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台
   url: https://leetcode.cn/
-  img: /images/logos/5ca4655c81def7042f75ad8b.png
+  img: /images/logos/leetcode.png
   description: 备战技术面试？力扣提供海量技术面试资源，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。
 - name: 黑马程序员官网-IT培训机构|java培训|前端培训|python培训|大数据培训
   url: https://www.itheima.com/
@@ -11,27 +11,15 @@
   url: https://www.imooc.com/
   img: /images/logos/imooc_icon.png
   description: 慕课网（IMOOC）是IT技能学习平台。
-- name: Notion – One workspace. Every team.
-  url: https://www.notion.so/
-  img: /images/logos/notion.ico
-  description: We’re more than a doc. Or a table. Customize Notion to work the way you do.
-- name: 百度翻译-200种语言互译、沟通全世界！
-  url: https://fanyi.baidu.com/
-  img: https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon-32x32.png
-  description: 百度翻译提供即时免费200+语言翻译服务，拥有网页、APP、API产品，支持文本翻译、文档翻译、图片翻译等特色功能，满足用户查词翻译、文献翻译、合同翻译等需求，随时随地沟通全世界
-- name: 在线翻译_有道
-  url: https://fanyi.youdao.com/
-  img: https://shared.ydstatic.com/images/favicon.ico
-  description: 有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译服务。
 - name: 遇见狂神说的个人空间_哔哩哔哩_bilibili
   url: https://space.bilibili.com/95256449/
-  img: /images/logos/default.png
+  img: /images/logos/bilibili_log.jpg
   description: 遇见狂神说，bilibili 知名UP主;编程是爱好，恭喜你发现宝藏男孩一枚~希望你们关注我是因为喜欢我，嘿嘿！哔哩哔哩Bilibili，你感兴趣的视频都在B站。
 - name: 牛客网-找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
   url: https://www.nowcoder.com/
-  img: /images/logos/595a178e703e23483da87713.png
+  img: /images/logos/nowcoder.png
   description: 求职之前，先上牛客，就业找工作一站解决。互联网IT技术/产品/运营/硬件/汽车机械制造/金融/财务管理/审计/银行/市场营销/地产/快消/管培生等等专业技能学习/备考/求职神器，在线进行企业校招实习笔试面试真题模拟考试练习,全面提升求职竞争力，找到好工作，拿到好offer。
 - name: 书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！
   url: https://www.bookstack.cn/
-  img: /images/logos/5f0bd1497e261c1f0b4e6d90.png
+  img: /images/logos/bookstack.png
   description: 书栈网，IT程序员互联网开源编程书籍阅读分享，囊括小程序、前端、后端、移动端、云计算、大数据、区块链、机器学习、人工智能和面试笔试等相关书籍，助你【码】力十足！

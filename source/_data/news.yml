@@ -1,9 +1,13 @@
 # 新闻资讯
+- name: 今日头条
+  url: https://www.toutiao.com/
+  img: /images/logos/toutiao.png
+  description: 今日头条是一个通用信息平台，致力于连接人与信息，让优质丰富的信息得到高效精准的分发，促使信息创造价值。
 - name: 虎嗅网
   url: https://www.huxiu.com/
   img: /images/logos/huxiu_logo.png
   description: 聚合优质的创新信息与人群，捕获精选|深度|犀利的商业科技资讯。在虎嗅，不错过互联网的每个重要时刻。
 - name: 36氪_让一部分人先看到未来
   url: https://www.36kr.com/
-  img: https://www.36kr.com/favicon.ico
+  img: /images/logos/36kr.png
   description: 36氪通过全面，独家的视角为用户深度剖析最前沿的资讯，致力于让一部分人先看到未来，内容涵盖快讯，科技，金融，投资，房产，汽车，互联网，股市，教育，生活，职场等，秉承着新商业媒体人的使命砥砺前行

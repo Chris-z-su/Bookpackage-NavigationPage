@@ -34,7 +34,7 @@ menu:
     icon: fa fa-blog
     config: blogBBS
   - name: 学习教育
-    icon: fa fa-school
+    icon: fa fa-book
     config: studyTutorial
   - name: 常用工具
     icon: fa fa-briefcase
@@ -43,13 +43,13 @@ menu:
         icon: fa fa-bolt
         config: onlineTools
       - name: 代码托管
-        icon: fa fa-inbox
+        icon: fa fa-code
         config: codeManaged
       - name: 实用软件
         icon: fa fa-wrench
         config: commonTools
       - name: 浏览器插件
-        icon: fa fa-code
+        icon: fa fa-puzzle-piece
         config: plugIn
   - name: 博客收藏
     icon: fa fa-bookmark

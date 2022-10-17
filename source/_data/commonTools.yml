@@ -1,12 +1,32 @@
 # 实用软件
+- name: Notion – One workspace. Every team.
+  url: https://www.notion.so/
+  img: /images/logos/notion.ico
+  description: We’re more than a doc. Or a table. Customize Notion to work the way you do.
+- name: 微信读书-正版书籍小说免费阅读
+  url: https://weread.qq.com/
+  img: /images/logos/wread.png
+  description: 微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书，随时交流感想，让阅读不再孤独。
+- name: QQ邮箱
+  url: https://mail.qq.com/
+  img: /images/logos/qq-mail.png
+  description: QQ邮箱，为亿万用户提供高效稳定便捷的电子邮件服务。
+- name: 163网易免费邮-你的专业电子邮局
+  url: https://mail.163.com/
+  img: https://mail.163.com/favicon.ico
+  description: 网易163免费邮箱，你的专业电子邮局，注册用户数超10亿，专业稳定安全。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。
 - name: CCleaner
   url: https://www.ccleaner.com/
   img: /images/logos/ccleaner-icon.png
   description: 一款免费的系统优化和隐私保护工具
-- name: Global Potplayer
+- name: Potplayer
   url: https://potplayer.tv/?lang=zh_CN
-  img: https://t1.daumcdn.net/potplayer/main/img/favicon.ico
+  img: /images/logos/potplayer.jpeg
   description: 进不去访问PotPlayer中文网(http://www.potplayercn.com/)，是关于PotPlayer的中文网站，内容有PotPlayer下载,使用教程,插件,直播源,皮肤。PotPlayer支持网络上所有主流的视频音频格式文件，被誉为Windows平台上最优秀的免费影音全能格式播放器。
+- name: uTools官网 - 新一代效率工具平台
+  url: https://potplayer.tv/?lang=zh_CN
+  img: /images/logos/utools.png
+  description: uTools 是什么? uTools 是新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys
   img: /images/logos/github_black.png

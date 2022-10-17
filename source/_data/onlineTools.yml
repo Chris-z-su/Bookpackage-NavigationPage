@@ -1,22 +1,33 @@
 # 在线工具
+- name: 百度翻译-200种语言互译、沟通全世界！
+  url: https://fanyi.baidu.com/
+  img: /images/logos/baidufanyi.png
+  description: 百度翻译提供即时免费200+语言翻译服务，拥有网页、APP、API产品，支持文本翻译、文档翻译、图片翻译等特色功能，满足用户查词翻译、文献翻译、合同翻译等需求，随时随地沟通全世界
+- name: 在线翻译_有道
+  url: https://fanyi.youdao.com/
+  img: /images/logos/youdao.ico
+  description: 有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译服务。
 - name: 在线工具 —— OSCHINA.NET社区
   url: https://tool.oschina.net/
   img: /images/logos/openchina_logo.png
   description: OSCHINA.NET在线工具,ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具
 - name: 唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载
   url: https://www.jijidown.com/
-  img: https://www.jijidown.com/static/favicon.ico
-  description: 
+  img: /images/logos/jijidown.ico
+  description: bilibili视频|弹幕在线下载
 - name: 下歌吧_音乐免费下载_音乐在线试听_无损音乐下载
   url: https://music.y444.cn/#/
-  img: /images/logos/5eb903cb7e261c1f0b4e6b77.png
+  img: /images/logos/y444.png
   description: 本站名为下歌吧，免费提供音乐在线试听、下载服务，是全网最全、最快的音乐下载网站，提供超高、无损等音质音乐下载，在线下载歌曲，在线免费下载音乐，免费下载歌曲等服务。
 - name: 盲盒搜索
   url: http://www.xbinweb.com/search/
-  img: http://www.xbinweb.com/favicon.ico
+  img: /images/logos/xbinweb.ico
   description: 跳出信息茧房，随机获取盲盒关键字。
 - name: 熊猫搜书-熊猫搜索_聚合文档搜索导航
   url: https://xmsoushu.com/#/
-  img: /images/logos/5e94129f7e261c1f0b4e69da.png
+  img: /images/logos/xmsoushu.png
   description: 熊猫搜索，熊猫搜书，聚合第三方文档、电子书导航网站和搜索引擎，快速检索网络资源。
-
+- name: 中文Minecraft Wiki - 最详细的我的世界百科
+  url: https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
+  img: /images/logos/MinecraftWik.png
+  description: 我的世界百科，在线文档，中文Minecraft Wiki
