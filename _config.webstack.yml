@@ -1,6 +1,8 @@
 # 主题：hexo-theme-webstack(https://github.com/HCLonely/hexo-theme-webstack)
 favicon: /images/favicon.png
-banner: /images/girl.png # [可选]分享网站到 twitter 和 facebook 时的图片。
+# [可选]分享网站到 twitter 和 facebook 时的图片。
+# /images/girl.png  
+banner: 
 
 logo:
   expanded: /images/logo@2x.png
