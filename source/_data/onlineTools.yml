@@ -7,6 +7,10 @@
   url: https://fanyi.youdao.com/
   img: /images/logos/youdao.ico
   description: 有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译服务。
+- name: DeepL翻译：全世界最准确的翻译
+  url: https://www.deepl.com/translator
+  img: /images/logos/deepl.png
+  description: 即时翻译文本&完整的文档文件。为个人和团队提供准确的翻译。每天有数百万人使用DeepL进行翻译。
 - name: 在线工具 —— OSCHINA.NET社区
   url: https://tool.oschina.net/
   img: /images/logos/openchina_logo.png
@@ -31,3 +35,12 @@
   url: https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
   img: /images/logos/MinecraftWik.png
   description: 我的世界百科，在线文档，中文Minecraft Wiki
+- name: 元贝驾考
+  url: https://www.ybjk.com/
+  img: /images/logos/yuanbei_logo.png
+  description: 元贝驾考官网www.ybjk.com,提供元贝驾考2022科目一和元贝驾考2022科目四以及元贝驾考2022新题库.
+- name: 中华诗词网：古诗鉴赏，诗歌荟萃【中国诗词电子化计划】
+  url: http://www.haoshici.com/
+  img: /images/logos/haoshici.ico
+  description: 将中国历代诗词作品总汇于一站的诗词全集的纂辑计划，肇始于2009年。中华诗词网迄今已录得44,479位作者约1,174,695首作品。
+  

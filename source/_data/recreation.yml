@@ -71,3 +71,15 @@
   url: http://ziziyy1.com/
   img: /images/logos/default.png
   description: 子子影院收集整理最新好看的电视剧,最新电影,最新动画片在线观看，致力打造专业在线视频网站.
+- name: Live
+  url: http://live.yj1211.work/index/home/recommend
+  img: /images/logos/live.ico
+  description: 直播聚合平台
+- name: 坤了个坤
+  url: http://124.223.82.198/
+  img: http://124.223.82.198/favicon.ico
+  description: 小游戏：坤了个坤
+- name: 吃掉蔡徐坤
+  url: https://xxtyme.github.io/EatCxk/
+  img: /images/logos/default.png
+  description: 新概念音游

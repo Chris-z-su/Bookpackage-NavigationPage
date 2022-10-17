@@ -27,6 +27,18 @@
   url: https://potplayer.tv/?lang=zh_CN
   img: /images/logos/utools.png
   description: uTools 是什么? uTools 是新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集
+- name: Share Mouse
+  url: https://www.sharemouse.com/
+  img: /images/logos/utools.png
+  description: Mouse and Keyboard Sharing to control a Windows or Mac PC with the mouse and keyboard of any other PC. Or drag &amp; drop files between multiple computers.
+- name: 为女友写的练习打字小游戏
+  url: https://www.52pojie.cn/thread-1693820-1-1.html
+  img: /images/logos/52pojie.png
+  description: 女友前几天突然给我说想学电脑！学电脑首先就是熟悉键盘练习打字，想起我刚接触电脑时，练习最多的就是某款掉落苹果字母练习的小游戏！这种游戏不复杂，懒得去网上找 ... 为女友写的练习打字小游戏 ,吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+- name: MyRadio for Android 解锁VIP版
+  url: https://www.yxssp.com/38612.html
+  img: https://www.yxssp.com/wp-content/themes/ionMag/yxssp.ico
+  description: MyRadio 是一款收听广播的应用，让您收听来自世界各地的50000多个网络广播。
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys
   img: /images/logos/github_black.png
