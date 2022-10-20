@@ -7,14 +7,10 @@
   url: https://weread.qq.com/
   img: /images/logos/wread.png
   description: 微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书，随时交流感想，让阅读不再孤独。
-- name: QQ邮箱
-  url: https://mail.qq.com/
-  img: /images/logos/qq-mail.png
-  description: QQ邮箱，为亿万用户提供高效稳定便捷的电子邮件服务。
-- name: 163网易免费邮-你的专业电子邮局
-  url: https://mail.163.com/
-  img: https://mail.163.com/favicon.ico
-  description: 网易163免费邮箱，你的专业电子邮局，注册用户数超10亿，专业稳定安全。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。
+- name: Google Chrome 网络浏览器
+  url: https://www.google.cn/intl/zh-CN/chrome/
+  img: /images/logos/google.png
+  description: 得益于 Google 智能工具，Chrome 现在更易用、更安全、更快速。
 - name: CCleaner
   url: https://www.ccleaner.com/
   img: /images/logos/ccleaner-icon.png
@@ -35,9 +31,17 @@
   url: https://www.52pojie.cn/thread-1693820-1-1.html
   img: /images/logos/52pojie.png
   description: 女友前几天突然给我说想学电脑！学电脑首先就是熟悉键盘练习打字，想起我刚接触电脑时，练习最多的就是某款掉落苹果字母练习的小游戏！这种游戏不复杂，懒得去网上找 ... 为女友写的练习打字小游戏 ,吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+- name: 官方网站 | Minecraft
+  url: https://www.minecraft.net/zh-hans
+  img: /images/logos/minecraft.png
+  description: 我的世界是一款堆方块、不断冒险的游戏。在此购买，或浏览网站了解最新消息和社区的精彩创意！
+- name: FFmpeg
+  url: https://github.com/FFmpeg/FFmpeg/
+  img: /images/logos/github_black.png
+  description: FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - name: MyRadio for Android 解锁VIP版
   url: https://www.yxssp.com/38612.html
-  img: https://www.yxssp.com/wp-content/themes/ionMag/yxssp.ico
+  img: /images/logos/yx250.png
   description: MyRadio 是一款收听广播的应用，让您收听来自世界各地的50000多个网络广播。
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys

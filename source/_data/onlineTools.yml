@@ -1,4 +1,20 @@
 # 在线工具
+- name: 百度一下，你就知道
+  url: https://www.baidu.com/
+  img: /images/logos/baidu_logo.png
+  description: 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。
+- name: 必应
+  url: https://cn.bing.com/
+  img: /images/logos/bing.ico
+  description: 必应可帮助你将理论付诸实践，使得搜索更加方便快捷，从而达到事半功倍的效果。
+- name: Google
+  url: https://www.google.com.hk/
+  img: /images/logos/google.png
+  description: Google搜索引擎主要的搜索服务有：网页，图片，音乐，视频，地图，新闻，问答。
+- name: 360搜索，SO靠谱
+  url: https://www.so.com/
+  img: /images/logos/360so.ico
+  description: 360搜索是安全、精准、可信赖的新一代搜索引擎，依托于360母品牌的安全优势，全面拦截各类钓鱼欺诈等恶意网站，提供更放心的搜索服务。 360搜索 so靠谱。
 - name: 百度翻译-200种语言互译、沟通全世界！
   url: https://fanyi.baidu.com/
   img: /images/logos/baidufanyi.png
@@ -11,7 +27,23 @@
   url: https://www.deepl.com/translator
   img: /images/logos/deepl.png
   description: 即时翻译文本&完整的文档文件。为个人和团队提供准确的翻译。每天有数百万人使用DeepL进行翻译。
-- name: 在线工具 —— OSCHINA.NET社区
+- name: Google 翻译
+  url: https://translate.google.co.kr/
+  img: /images/logos/google_translate.ico
+  description: Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。
+- name: QQ邮箱
+  url: https://mail.qq.com/
+  img: /images/logos/qq-mail.png
+  description: QQ邮箱，为亿万用户提供高效稳定便捷的电子邮件服务。
+- name: 163网易免费邮-你的专业电子邮局
+  url: https://mail.163.com/
+  img: https://mail.163.com/favicon.ico
+  description: 网易163免费邮箱，你的专业电子邮局，注册用户数超10亿，专业稳定安全。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。
+- name: Gmail
+  url: https://mail.google.com/
+  img: /images/logos/gmail.ico
+  description: Google 的电子邮件服务
+- name: 在线工具 - OSCHINA.NET社区
   url: https://tool.oschina.net/
   img: /images/logos/openchina_logo.png
   description: OSCHINA.NET在线工具,ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具
@@ -35,6 +67,22 @@
   url: https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
   img: /images/logos/MinecraftWik.png
   description: 我的世界百科，在线文档，中文Minecraft Wiki
+- name: 世界著名的壁纸网站 电脑桌面壁纸 - WallHere 壁纸库
+  url: https://wallhere.com/
+  img: /images/logos/wallhere.png
+  description: 免费下载超过 1557214 高清桌面壁纸, 世界著名的壁纸网站.
+- name: pixiv
+  url: https://www.pixiv.net/
+  img: /images/logos/pixiv.ico
+  description: pixiv是提供插画等作品的投稿、阅览服务的「插画交流网站」。这里有各种各样不同风格的投稿作品，我们还会举办官方、用户企画的各种比赛。
+- name: Facebook
+  url: https://www.facebook.com/
+  img: /images/logos/facebook.ico
+  description: 联系你我，分享生活，尽在 Facebook
+- name: Faithful
+  url: https://faithful.team/
+  img: /images/logos/faithful.ico
+  description: The official website of Minecraft's most iconic texture pack. Home of the Faithful Community and so much more!
 - name: 元贝驾考
   url: https://www.ybjk.com/
   img: /images/logos/yuanbei_logo.png
