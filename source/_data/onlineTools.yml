@@ -83,6 +83,22 @@
   url: https://faithful.team/
   img: /images/logos/faithful.ico
   description: The official website of Minecraft's most iconic texture pack. Home of the Faithful Community and so much more!
+- name: 隔离食用手册
+  url: https://cook.yunyoujun.cn/
+  img: https://cook.yunyoujun.cn/favicon.svg
+  description: 好的，今天我们来做菜！
+- name: 秘塔写作猫
+  url: https://xiezuocat.com/#/
+  img: /images/logos/xiezuocat.ico
+  description: 写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。
+- name: Learning Music
+  url: https://learningmusic.ableton.com/
+  img: /images/logos/learningmusic.ico
+  description: Explore the fundamentals of music via Ableton's interactive website. Experiment with beats, melody, harmony, basslines, and song structure in your web browser.
+- name: 图形方格纸 My Graph Paper
+  url: https://www.mygraphpaper.com/index.php?lang=zh-hans
+  img: /images/logos/default.png
+  description: 设计自己专用的图形方格纸, 手帐 DIY - PDF.
 - name: 元贝驾考
   url: https://www.ybjk.com/
   img: /images/logos/yuanbei_logo.png
