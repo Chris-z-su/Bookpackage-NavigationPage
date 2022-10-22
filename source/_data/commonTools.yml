@@ -23,6 +23,54 @@
   url: https://potplayer.tv/?lang=zh_CN
   img: /images/logos/utools.png
   description: uTools 是什么? uTools 是新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集
+- name: Diagram
+  url: https://www.diagrams.net/
+  img: /images/logos/diagrams.ico
+  description: Bring your storage to our online tool, or go max privacy with the desktop app.
+- name: Java | Oracle
+  url: https://www.java.com/zh-CN/
+  img: /images/logos/java.png
+  description: 现在就开始使用 Java
+- name: Java Platform, Standard Edition Documentation - Releases
+  url: https://docs.oracle.com/en/java/javase/index.html
+  img: /images/logos/oracle.ico
+  description: Java Platform, Standard Edition documentation, current and previous releases
+- name: MySQL
+  url: https://www.mysql.com/
+  img: /images/logos/mysql.png
+  description: MySQL官网
+- name: Spring | Home
+  url: https://spring.io/
+  img: /images/logos/spring_logo.png
+  description: Level up your Java code and explore what Spring can do for you.
+- name: Redis
+  url: https://redis.io/
+  img: /images/logos/redis.png
+  description: Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures …
+- name: Apache Dubbo
+  url: https://dubbo.apache.org/zh/index.html
+  img: /images/logos/apache_dubbo.png
+  description: Apache Dubbo 官方网站
+- name: Apache Hadoop
+  url: https://hadoop.apache.org/
+  img: /images/logos/hadoop.png
+  description: Apache Hadoop 官方网站
+- name: Linux.org
+  url: https://www.linux.org/
+  img: /images/logos/linux.png
+  description: Friendly Linux Forum
+- name: Vue.js
+  url: https://cn.vuejs.org/
+  img: /images/logos/vuejs.png
+  description: Vue.js渐进式的 JavaScript 框架
+- name: NATAPP-内网穿透 基于ngrok的国内高速内网映射工具
+  url: https://natapp.cn/
+  img: /images/logos/natapp.ico
+  description: natapp是基于ngrok的国内高速内网穿透专业服务商
+- name: Nova Skin - Minecraft Wallpaper Generator with custom skins
+  url: https://minecraft.novaskin.me/wallpapers
+  img: /images/logos/novaskin-100.png
+  description: Select a image to start. You can customize the wallpaper with your own skins.
 - name: Share Mouse
   url: https://www.sharemouse.com/
   img: /images/logos/utools.png

@@ -1,8 +1,28 @@
 # 博客收藏
+- name: Web前端导航
+  url: http://www.alloyteam.com/nav/
+  img: /images/logos/alloyteam.jpg
+  description: Web前端导航网站
+- name: 126云导航 - 最好用的浏览器主页
+  url: https://www.126yun.cn/
+  img: /images/logos/126yun.png
+  description: 最好用的浏览器主页，拒绝流氓主页
 - name: KuangStudy
   url: https://www.kuangstudy.com/
-  img: /images/logos/83bb511365da513c55aa3d1958524f3b7db40684.jpg
+  img: /images/logos/kuangstudy.jpg
   description: KuangStudy是一个致力于为每个想学习知识的人提供一个少走弯路的平台,包含优质体系课程、文章博客、专栏书写、技术论坛、资源下载等产品服务,提供有用、优质、完整内容的自学交流社区.
+- name: 廖雪峰的官方网站
+  url: https://www.liaoxuefeng.com/
+  img: /images/logos/default.png
+  description: 研究互联网产品和技术，提供原创中文精品教程
+- name: 阮一峰的个人网站 - Ruan YiFeng's Personal Website
+  url: https://www.ruanyifeng.com/
+  img: /images/logos/default.png
+  description: 阮一峰的个人网站
+- name: AlgoMooc算法慕课网_采取看动画的形式刷 LeetCode 通过算法面试！
+  url: https://www.algomooc.com/
+  img: /images/logos/algomooc.png
+  description: 看动画，学算法，认准吴师兄，和吴师兄一起学算法。
 - name: wangxj2020
   url: http://wangxj2020.gitee.io/
   img: http://wangxj2020.gitee.io/favicon.png
@@ -15,10 +35,6 @@
   url: http://luckyzmj.cn/
   img: /images/logos/LuckySec.jpg
   description: LuckySecの博客
-- name: 126云导航 - 最好用的浏览器主页
-  url: https://www.126yun.cn/
-  img: /images/logos/126yun.png
-  description: 最好用的浏览器主页，拒绝流氓主页
 - name: 张小驰出没
   url: https://www.moyuzc.cn/
   img: /images/logos/moyuzc.jpg

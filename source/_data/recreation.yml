@@ -27,6 +27,10 @@
   url: https://www.youku.com/
   img: /images/logos/youku.png
   description: 视频服务平台,提供视频播放,视频发布,视频搜索,视频分享
+- name: CCTV节目官网_央视网
+  url: https://tv.cctv.com/
+  img: /images/logos/cctv.png
+  description: CCTV节目官网是中央电视台电视节目官方呈现平台。
 - name: YouTube
   url: https://www.youtube.com/
   img: /images/logos/youtube.png
@@ -87,3 +91,7 @@
   url: https://xxtyme.github.io/EatCxk/
   img: /images/logos/default.png
   description: 新概念音游
+- name: chrome://dino/
+  url: chrome://dino/
+  img: /images/logos/default.png
+  description: Chrome恐龙小游戏

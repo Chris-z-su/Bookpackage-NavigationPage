@@ -1,4 +1,12 @@
 # 博客论坛
+- name: Stack Overflow
+  url: https://stackoverflow.com/
+  img: /images/logos/stackoverflow.png
+  description: 全球最受程序员欢迎的开发社区
+- name: CSDN
+  url: https://www.csdn.net/
+  img: /images/logos/csdn_logo.png
+  description: 全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
 - name: 博客园
   url: https://www.cnblogs.com/
   img: /images/logos/cnblogs_logo.png
@@ -7,14 +15,18 @@
   url: https://juejin.cn/
   img: /images/logos/juejin_logo.png
   description: 一个帮助开发者成长的社区
-- name: CSDN
-  url: https://www.csdn.net/
-  img: /images/logos/csdn_logo.png
-  description: 全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
-- name: Stack Overflow
-  url: https://stackoverflow.com/
-  img: /images/logos/stackoverflow.png
+- name: 51CTO-中国领先的IT技术网站
+  url: https://www.51cto.com/
+  img: /images/logos/51cto.ico
   description: 全球最受程序员欢迎的开发社区
+- name: OSCHINA - 中文开源技术交流社区
+  url: https://www.oschina.net/
+  img: /images/logos/openchina_logo.png
+  description: OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台
+- name: 简书 - 创作你的创作
+  url: https://www.jianshu.com/
+  img: /images/logos/jianshu.png
+  description: 简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。
 - name: 吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn 
   url: https://www.52pojie.cn/
   img: /images/logos/52pojie.png

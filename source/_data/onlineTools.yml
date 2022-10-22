@@ -21,7 +21,7 @@
   description: 百度翻译提供即时免费200+语言翻译服务，拥有网页、APP、API产品，支持文本翻译、文档翻译、图片翻译等特色功能，满足用户查词翻译、文献翻译、合同翻译等需求，随时随地沟通全世界
 - name: 在线翻译_有道
   url: https://fanyi.youdao.com/
-  img: /images/logos/youdao.ico
+  img: /images/logos/youdao.png
   description: 有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译服务。
 - name: DeepL翻译：全世界最准确的翻译
   url: https://www.deepl.com/translator
@@ -31,6 +31,10 @@
   url: https://translate.google.co.kr/
   img: /images/logos/google_translate.ico
   description: Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。
+- name: Google 简明搜索导航 - Fuyeor Live 导航
+  url: https://search.fuyeor.com/zh-cn/Google
+  img: /images/logos/fuyeor.png
+  description: OneLive 简明导航是一款稳定轻快、保护隐私、简洁精致、以用户体验为主的导航页。聚合百度、必应、谷歌、Yandex、OneLiven 四种搜索引擎。
 - name: QQ邮箱
   url: https://mail.qq.com/
   img: /images/logos/qq-mail.png
@@ -43,10 +47,34 @@
   url: https://mail.google.com/
   img: /images/logos/gmail.ico
   description: Google 的电子邮件服务
+- name: Maven Repository
+  url: https://mvnrepository.com/
+  img: /images/logos/mvnrepository.ico
+  description: Maven Repository - Search/Browse/Explore
+- name: Maven Central Repository Search
+  url: https://search.maven.org/
+  img: /images/logos/maven_search.ico
+  description: Official search by the maintainers of Maven Central Repository
+- name: Algorithm Visualizer
+  url: https://algorithm-visualizer.org/
+  img: /images/logos/algorithm-visualizer.png
+  description: Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
 - name: 在线工具 - OSCHINA.NET社区
   url: https://tool.oschina.net/
   img: /images/logos/openchina_logo.png
   description: OSCHINA.NET在线工具,ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具
+- name: 菜鸟工具 - 不止于工具
+  url: https://c.runoob.com/
+  img: /images/logos/runoob_tool.ico
+  description: 菜鸟工具，为开发设计人员提供在线工具，网址导航，提供在线PHP、Python、 CSS、JS 调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程。
+- name: Codeimg.io
+  url: https://codeimg.io/
+  img: /images/logos/codeimg.ico
+  description: Create and share beautiful images of your source code.
+- name: 辞典・百科事典の検索サービス - Weblio辞書
+  url: https://www.weblio.jp/
+  img: /images/logos/weblio.png
+  description: Weblioは560の専門辞書や国語辞典、百科事典から一度に検索する辞書サイトです。
 - name: 唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载
   url: https://www.jijidown.com/
   img: /images/logos/jijidown.ico
@@ -63,6 +91,14 @@
   url: https://xmsoushu.com/#/
   img: /images/logos/xmsoushu.png
   description: 熊猫搜索，熊猫搜书，聚合第三方文档、电子书导航网站和搜索引擎，快速检索网络资源。
+- name: Jiumo Search 鸠摩搜索 - 文档搜索引擎
+  url: https://www.jiumodiary.com/
+  img: /images/logos/jiumodiary.png
+  description: 鸠摩搜索引擎
+- name: 维基百科，自由的百科全书
+  url: http://zh.wikipedia.org/
+  img: /images/logos/wikipedia.ico
+  description: 维基百科，自由的百科全书(https://en.wikipedia.org/wiki/Main_Page)
 - name: 中文Minecraft Wiki - 最详细的我的世界百科
   url: https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
   img: /images/logos/MinecraftWik.png
@@ -107,4 +143,32 @@
   url: http://www.haoshici.com/
   img: /images/logos/haoshici.ico
   description: 将中国历代诗词作品总汇于一站的诗词全集的纂辑计划，肇始于2009年。中华诗词网迄今已录得44,479位作者约1,174,695首作品。
-  
+- name: iTab新标签页
+  url: https://go.itab.link/
+  img: /images/logos/itab.png
+  description: new Tab,自定义您新标签页上的网站和壁纸以及搜索引擎,创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制
+- name: 青柠起始页
+  url: https://limestart.cn/
+  img: /images/logos/limestart.png
+  description: 青柠起始页由毛若昕和杨尚臻开发，是一个简洁、美观、实用的浏览器起始页。青柠起始页以最简洁的界面容纳了多引擎搜索、自定义网站捷径、便笺等实用功能；您可依据喜好对青柠起始页进行高度自定义，让您的网上冲浪体验更加舒心。
+- name: CurseForge
+  url: https://www.curseforge.com/
+  img: /images/logos/curseforge.png
+  description: As gamers, we’ve always used in-game apps and mods. App developers and mod authors add true value to the gaming community. 
+- name: disease.sh
+  url: https://disease.sh/
+  img: /images/logos/disease.png
+  description: An open API for disease-related statistics. No signup required.
+    Over 45,000,000,000+ Requests & 50 TB of Data Served to Date!
+- name: OptiFine 中文网 - MINECRAFT 高清优化 MOD
+  url: https://optifine.cn/
+  img: /images/logos/optifine.png
+  description: OptiFine - Minecraft 性能优化及画质提升补丁，高清修复插件
+- name: 在线转换电子书文件
+  url: https://www.aconvert.com/cn/ebook/
+  img: /images/logos/default.png
+  description: 在线转换电子书文件 - 将电子书文件转换为AZW3，EPUB，DOCX，FB2，HTML，LIT，MOBI，PDF，RTF，SNB，TCR或TXT文件。
+- name: 音乐解锁
+  url: https://demo.unlock-music.dev/
+  img: /images/logos/unlock-music.png
+  description: 音乐解锁 - 在任何设备上解锁已购的加密音乐！
