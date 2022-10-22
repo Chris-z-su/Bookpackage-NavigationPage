@@ -91,10 +91,10 @@ aboutPage:
 since: 2022
 
 busuanzi:
-  enable: false
+  enable: true
   position: sidebar # 'footer','sidebar'
-  pv: 本站总访问量$pv
-  uv: 本站总访客数$uv
+  pv: 总访问量$pv
+  uv: 总访客数$uv
 
 custom:
   head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格

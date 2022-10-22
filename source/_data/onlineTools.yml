@@ -87,6 +87,10 @@
   url: http://www.xbinweb.com/search/
   img: /images/logos/xbinweb.ico
   description: 跳出信息茧房，随机获取盲盒关键字。
+- name: Zilibrary - 数字图书馆。搜索书籍。免费下载书籍
+  url: https://zh.b-ok.asia/
+  img: /images/logos/zilibrary_logo.png
+  description: 数字图书馆。搜索书籍。免费下载书籍 | Z-Library. Download books for free. Find books
 - name: 熊猫搜书-熊猫搜索_聚合文档搜索导航
   url: https://xmsoushu.com/#/
   img: /images/logos/xmsoushu.png

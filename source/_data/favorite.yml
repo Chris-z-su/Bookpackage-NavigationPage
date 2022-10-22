@@ -1,9 +1,9 @@
 # 常用推荐
+- name: Bookpackage
+  url: https://chris-z-su.github.io/
+  img: /images/logo.png
+  description: 为实现中华民族伟大复兴的中国梦而努力奋斗。
 - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
   url: https://www.bilibili.com/
   img: /images/logos/bilibili.png
   description: 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
-- name: Zilibrary - 数字图书馆。搜索书籍。免费下载书籍
-  url: https://zh.b-ok.asia/
-  img: /images/logos/zilibrary_logo.png
-  description: 数字图书馆。搜索书籍。免费下载书籍 | Z-Library. Download books for free. Find books
