@@ -47,6 +47,10 @@
   url: https://mail.google.com/
   img: /images/logos/gmail.ico
   description: Google 的电子邮件服务
+- name: Linux命令搜索引擎
+  url: https://wangchujiang.com/linux-command/
+  img: /images/logos/wangchujiang.ico
+  description: Linux命令搜索引擎:最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。
 - name: Maven Repository
   url: https://mvnrepository.com/
   img: /images/logos/mvnrepository.ico
