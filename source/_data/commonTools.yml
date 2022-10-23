@@ -1,16 +1,16 @@
 # 实用软件
-- name: Notion – One workspace. Every team.
+- name: Notion - One workspace. Every team.
   url: https://www.notion.so/
   img: /images/logos/notion.ico
-  description: We’re more than a doc. Or a table. Customize Notion to work the way you do.
+  description: We're more than a doc. Or a table. Customize Notion to work the way you do.
 - name: 微信读书-正版书籍小说免费阅读
   url: https://weread.qq.com/
   img: /images/logos/wread.png
-  description: 微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书，随时交流感想，让阅读不再孤独。
+  description: 微信读书提供海量正版书籍、小说、漫画、公众号、听书,多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书,随时交流感想,让阅读不再孤独。
 - name: Google Chrome 网络浏览器
   url: https://www.google.cn/intl/zh-CN/chrome/
   img: /images/logos/google.png
-  description: 得益于 Google 智能工具，Chrome 现在更易用、更安全、更快速。
+  description: 得益于 Google 智能工具,Chrome 现在更易用、更安全、更快速。
 - name: CCleaner
   url: https://www.ccleaner.com/
   img: /images/logos/ccleaner-icon.png
@@ -18,11 +18,11 @@
 - name: Potplayer
   url: https://potplayer.tv/?lang=zh_CN
   img: /images/logos/potplayer.jpeg
-  description: 进不去访问PotPlayer中文网(http://www.potplayercn.com/)，是关于PotPlayer的中文网站，内容有PotPlayer下载,使用教程,插件,直播源,皮肤。PotPlayer支持网络上所有主流的视频音频格式文件，被誉为Windows平台上最优秀的免费影音全能格式播放器。
+  description: 进不去访问PotPlayer中文网(http://www.potplayercn.com/),是关于PotPlayer的中文网站,内容有PotPlayer下载,使用教程,插件,直播源,皮肤。PotPlayer支持网络上所有主流的视频音频格式文件,被誉为Windows平台上最优秀的免费影音全能格式播放器。
 - name: uTools官网 - 新一代效率工具平台
   url: https://potplayer.tv/?lang=zh_CN
   img: /images/logos/utools.png
-  description: uTools 是什么? uTools 是新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集
+  description: uTools 是什么? uTools 是新一代效率工具平台,自由组合插件应用,打造专属你的趁手工具集
 - name: Diagram
   url: https://www.diagrams.net/
   img: /images/logos/diagrams.ico
@@ -78,11 +78,11 @@
 - name: 为女友写的练习打字小游戏
   url: https://www.52pojie.cn/thread-1693820-1-1.html
   img: /images/logos/52pojie.png
-  description: 女友前几天突然给我说想学电脑！学电脑首先就是熟悉键盘练习打字，想起我刚接触电脑时，练习最多的就是某款掉落苹果字母练习的小游戏！这种游戏不复杂，懒得去网上找 ... 为女友写的练习打字小游戏 ,吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+  description: 女友前几天突然给我说想学电脑！学电脑首先就是熟悉键盘练习打字,想起我刚接触电脑时,练习最多的就是某款掉落苹果字母练习的小游戏！这种游戏不复杂,懒得去网上找 ... 为女友写的练习打字小游戏 ,吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
 - name: 官方网站 | Minecraft
   url: https://www.minecraft.net/zh-hans
   img: /images/logos/minecraft.png
-  description: 我的世界是一款堆方块、不断冒险的游戏。在此购买，或浏览网站了解最新消息和社区的精彩创意！
+  description: 我的世界是一款堆方块、不断冒险的游戏。在此购买,或浏览网站了解最新消息和社区的精彩创意！
 - name: FFmpeg
   url: https://github.com/FFmpeg/FFmpeg/
   img: /images/logos/github_black.png
@@ -90,7 +90,7 @@
 - name: MyRadio for Android 解锁VIP版
   url: https://www.yxssp.com/38612.html
   img: /images/logos/yx250.png
-  description: MyRadio 是一款收听广播的应用，让您收听来自世界各地的50000多个网络广播。
+  description: MyRadio 是一款收听广播的应用,让您收听来自世界各地的50000多个网络广播。
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys
   img: /images/logos/github_black.png
@@ -102,4 +102,4 @@
 - name: f.lux
   url: https://justgetflux.com/
   img: /images/logos/default.png
-  description: 国外开源的护眼软件，通过根据时间调节屏幕颜色，减少蓝光对视力的影响
+  description: 国外开源的护眼软件,通过根据时间调节屏幕颜色,减少蓝光对视力的影响

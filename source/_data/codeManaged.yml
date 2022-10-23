@@ -6,7 +6,7 @@
 - name: Gitee - 基于 Git 的代码托管和研发协作平台
   url: https://gitee.com/
   img: /images/logos/gitee.png
-  description: Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 800 万的开发者选择 Gitee。
+  description: Gitee.com(码云) 是 OSCHINA.NET 推出的代码托管平台,支持 Git 和 SVN,提供免费的私有仓库托管。目前已有超过 800 万的开发者选择 Gitee。
 - name: The One DevOps Platform | GitLab
   url: https://about.gitlab.com/
   img: /images/logos/gitlab_icon.png

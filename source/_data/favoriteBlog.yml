@@ -6,7 +6,7 @@
 - name: 126云导航 - 最好用的浏览器主页
   url: https://www.126yun.cn/
   img: /images/logos/126yun.png
-  description: 最好用的浏览器主页，拒绝流氓主页
+  description: 最好用的浏览器主页,拒绝流氓主页
 - name: KuangStudy
   url: https://www.kuangstudy.com/
   img: /images/logos/kuangstudy.jpg
@@ -14,7 +14,7 @@
 - name: 廖雪峰的官方网站
   url: https://www.liaoxuefeng.com/
   img: /images/logos/default.png
-  description: 研究互联网产品和技术，提供原创中文精品教程
+  description: 研究互联网产品和技术,提供原创中文精品教程
 - name: 阮一峰的个人网站 - Ruan YiFeng's Personal Website
   url: https://www.ruanyifeng.com/
   img: /images/logos/default.png
@@ -22,7 +22,7 @@
 - name: AlgoMooc算法慕课网_采取看动画的形式刷 LeetCode 通过算法面试！
   url: https://www.algomooc.com/
   img: /images/logos/algomooc.png
-  description: 看动画，学算法，认准吴师兄，和吴师兄一起学算法。
+  description: 看动画,学算法,认准吴师兄,和吴师兄一起学算法。
 - name: wangxj2020
   url: http://wangxj2020.gitee.io/
   img: http://wangxj2020.gitee.io/favicon.png

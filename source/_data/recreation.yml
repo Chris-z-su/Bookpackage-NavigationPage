@@ -6,23 +6,23 @@
 - name: 首页 - 知乎
   url: https://www.zhihu.com/
   img: /images/logos/zhihu.png
-  description: 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台。
-- name: 微博 – 随时随地发现新鲜事
+  description: 知乎,中文互联网高质量的问答社区和创作者聚集的原创内容平台。
+- name: 微博 - 随时随地发现新鲜事
   url: https://weibo.com/
   img: /images/logos/weibo.png
   description: 微博是人们在线创作、分享和发现内容的领先社交媒体平台。
 - name: 豆瓣
   url: https://www.douban.com/
   img: /images/logos/douban.png
-  description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
+  description: 提供图书、电影、音乐唱片的推荐、评论和价格比较,以及城市独特的文化生活。
 - name: 腾讯视频 - 中国领先的在线视频媒体平台,海量高清视频在线观看
   url: https://v.qq.com/
   img: /images/logos/qqvideo.png
-  description: 腾讯视频致力于打造中国领先的在线视频媒体平台，以丰富的内容、极致的观看体验、便捷的登录方式、24小时多平台无缝应用体验以及快捷分享的产品特性，主要满足用户在线观看视频的需求。
+  description: 腾讯视频致力于打造中国领先的在线视频媒体平台,以丰富的内容、极致的观看体验、便捷的登录方式、24小时多平台无缝应用体验以及快捷分享的产品特性,主要满足用户在线观看视频的需求。
 - name: 爱奇艺-在线视频网站-海量正版高清视频在线观看
   url: https://www.iqiyi.com/
   img: /images/logos/iqiyi.png
-  description: 爱奇艺视频是高品质的在线视频播放平台。爱奇艺影视内容丰富多元，涵盖电影、电视剧、动漫、综艺、生活、音乐、搞笑、财经、军事、体育、片花、资讯、微电影、儿童、母婴、教育、科技、时尚、原创、公益、游戏、旅游、拍客、汽车、纪录片、爱奇艺自制剧等剧目。
+  description: 爱奇艺视频是高品质的在线视频播放平台。爱奇艺影视内容丰富多元,涵盖电影、电视剧、动漫、综艺、生活、音乐、搞笑、财经、军事、体育、片花、资讯、微电影、儿童、母婴、教育、科技、时尚、原创、公益、游戏、旅游、拍客、汽车、纪录片、爱奇艺自制剧等剧目。
 - name: 优酷 - 你的热爱 正在热播
   url: https://www.youku.com/
   img: /images/logos/youku.png
@@ -34,15 +34,15 @@
 - name: YouTube
   url: https://www.youtube.com/
   img: /images/logos/youtube.png
-  description: 在 YouTube 上畅享您喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享您的视频。
+  description: 在 YouTube 上畅享您喜爱的视频和音乐,上传原创内容并与亲朋好友和全世界观众分享您的视频。
 - name: QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅听的高品质音乐平台！
   url: https://y.qq.com/
   img: /images/logos/qqmusic.png
-  description: QQ音乐是腾讯公司推出的一款网络音乐服务产品，海量音乐在线试听、新歌热歌在线首发、歌词翻译、手机铃声下载、高品质无损音乐试听、海量无损曲库、正版音乐下载、空间背景音乐设置、MV观看等，是互联网音乐播放和下载的优选。
+  description: QQ音乐是腾讯公司推出的一款网络音乐服务产品,海量音乐在线试听、新歌热歌在线首发、歌词翻译、手机铃声下载、高品质无损音乐试听、海量无损曲库、正版音乐下载、空间背景音乐设置、MV观看等,是互联网音乐播放和下载的优选。
 - name: 网易云音乐
   url: https://music.163.com/
   img: /images/logos/music163.png
-  description: 网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。
+  description: 网易云音乐是一款专注于发现与分享的音乐产品,依托专业音乐人、DJ、好友推荐及社交功能,为用户打造全新的音乐生活。
 - name: 虎牙直播-技术驱动娱乐-弹幕式互动直播平台
   url: https://www.huya.com/
   img: /images/logos/huya_icon.png
@@ -54,7 +54,7 @@
 - name: AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
   url: http://www.acfun.cn/
   img: /images/logos/acfun.ico
-  description: AcFun是国内首家弹幕视频网站，这里有全网独家动漫新番， 友好的弹幕氛围，有趣的UP主，好玩有科技感的虚拟偶像，年轻人都在用。
+  description: AcFun是国内首家弹幕视频网站,这里有全网独家动漫新番, 友好的弹幕氛围,有趣的UP主,好玩有科技感的虚拟偶像,年轻人都在用。
 - name: 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心
   url: https://www.ixigua.com/
   img: /images/logos/ixigua.png
@@ -63,22 +63,22 @@
   url: https://store.steampowered.com/
   img: /images/logos/Steam.ico
   description: Steam is the ultimate destination for playing, discussing, and creating games.
-- name: Epic游戏商城 | 下载畅玩 PC 平台游戏、模组、DLC 和更多 – Epic Games
+- name: Epic游戏商城 | 下载畅玩 PC 平台游戏、模组、DLC 和更多 - Epic Games
   url: https://store.epicgames.com/zh-CN/
   img: /images/logos/epic.ico
-  description: 欢迎来到Epic游戏商城！下载畅玩各类 PC 平台游戏。模组、DLC 和免费游戏等你来享！总有一款游戏适合你。
+  description: 欢迎来到Epic游戏商城!下载畅玩各类 PC 平台游戏。模组、DLC 和免费游戏等你来享！总有一款游戏适合你。
 - name: 樱花动漫－专注动漫的门户网站
   url: http://www.yinghuacd.com/
   img: /images/logos/yinghuacd.ico
-  description: 樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。
+  description: 樱花动漫拥有上万集高清晰画质的在线动漫,观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站,我们致力为所有动漫迷们提供最好看的动漫。
 - name: 三十六计_三十六计网页游戏_游族战神三十六计游戏官网
   url: https://36.youzu.com/
   img: /images/logos/youzu.ico
-  description: 《三十六计》是由游族网络的战神工作室潜心打造的一款优质三国策略网页游戏，以三十六计和一统天下为战略核心，为广大策略爱好者提供了开拓疆土、群雄逐鹿的终极战场，真正开启了新的三国史诗篇章。
+  description: 《三十六计》是由游族网络的战神工作室潜心打造的一款优质三国策略网页游戏,以三十六计和一统天下为战略核心,为广大策略爱好者提供了开拓疆土、群雄逐鹿的终极战场,真正开启了新的三国史诗篇章。
 - name: 好看的电视剧_好看的电影_好看的动画片在线免费观看_樱花风车 - 子子影院
   url: http://ziziyy1.com/
   img: /images/logos/default.png
-  description: 子子影院收集整理最新好看的电视剧,最新电影,最新动画片在线观看，致力打造专业在线视频网站.
+  description: 子子影院收集整理最新好看的电视剧,最新电影,最新动画片在线观看,致力打造专业在线视频网站.
 - name: Live
   url: http://live.yj1211.work/index/home/recommend
   img: /images/logos/live.ico

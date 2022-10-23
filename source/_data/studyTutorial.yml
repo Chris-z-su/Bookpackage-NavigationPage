@@ -1,36 +1,36 @@
 # 学习教育
-- name: 力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台
+- name: 力扣(LeetCode)官网 - 全球极客挚爱的技术成长平台
   url: https://leetcode.cn/
   img: /images/logos/leetcode.png
-  description: 备战技术面试？力扣提供海量技术面试资源，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。
+  description: 备战技术面试？力扣提供海量技术面试资源,帮助你高效提升编程技能,轻松拿下世界 IT 名企 Dream Offer。
 - name: 慕课网-程序员的梦工厂
   url: https://www.imooc.com/
   img: /images/logos/imooc_icon.png
-  description: 慕课网（IMOOC）是IT技能学习平台。
+  description: 慕课网(IMOOC)是IT技能学习平台。
 - name: 中国大学MOOC(慕课)_国家精品课程在线学习平台
   url: https://www.icourse163.org/
   img: /images/logos/icourse163.png
-  description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台，由爱课程网携手网易云课堂打造。平台拥有包括985高校在内提供的千余门课程，其中首批获得认定的国家精品在线开放课程322门，占2017年获得认定课程总数的65.7%。每一个有提升愿望的人，都可以在这里学习优质高校课程，与名师零距离交流，并获得认证证书。
+  description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造。平台拥有包括985高校在内提供的千余门课程,其中首批获得认定的国家精品在线开放课程322门,占2017年获得认定课程总数的65.7%。每一个有提升愿望的人,都可以在这里学习优质高校课程,与名师零距离交流,并获得认证证书。
 - name: 网易云课堂 - 悄悄变强大
   url: https://study.163.com/
   img: /images/logos/163_study.png
-  description: 网易云课堂，一个专注于成人终身学习的在线教育平台。立足于实用性的要求, 与优质的教育内容创作者一起，为您提供全面、有效的在线学习内容。
+  description: 网易云课堂,一个专注于成人终身学习的在线教育平台。立足于实用性的要求, 与优质的教育内容创作者一起,为您提供全面、有效的在线学习内容。
 - name: MyBatis文档
   url: https://mybatis.org/mybatis-3/zh/index.html
   img: /images/logos/default.png
-  description: MyBatis 是一款优秀的持久层框架，它支持自定义 SQL、存储过程以及高级映射。
+  description: MyBatis 是一款优秀的持久层框架,它支持自定义 SQL、存储过程以及高级映射。
 - name: Redis 命令参考
   url: http://redisdoc.com/
   img: /images/logos/default.png
   description: Redis 命令参考
-- name: 菜鸟教程 - 学的不仅是技术，更是梦想！
+- name: 菜鸟教程 - 学的不仅是技术,更是梦想！
   url: https://www.runoob.com/
   img: /images/logos/runoob.ico
-  description: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。
-- name: w3cschool官网 - 编程狮，随时随地学编程
+  description: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python,Java,Ruby,C,PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例,通过实例,您可以更好的学习编程。
+- name: w3cschool官网 - 编程狮,随时随地学编程
   url: https://www.w3cschool.cn/
   img: /images/logos/w3cschool.ico
-  description: w3cschool启用中文品牌名--编程狮，是一个专业的W3C前端开发及编程入门学习平台，提供包括HTML,CSS,Javascript,jQuery,C,PHP,Java,Python,Sql,Mysql等编程语言和开源技术的在线教程及使用手册，是类国外w3schools的W3C学习社区及菜鸟编程平台。
+  description: w3cschool启用中文品牌名--编程狮,是一个专业的W3C前端开发及编程入门学习平台,提供包括HTML,CSS,Javascript,jQuery,C,PHP,Java,Python,Sql,Mysql等编程语言和开源技术的在线教程及使用手册,是类国外w3schools的W3C学习社区及菜鸟编程平台。
 - name: 易百教程
   url: https://www.yiibai.com/
   img: /images/logos/yiibai.png
@@ -38,11 +38,11 @@
 - name: 码农教程 - IT编程入门网 - 码农网
   url: http://www.manongjc.com/
   img: /images/logos/manongjc.ico
-  description: 码农教程旨在为码农们提供免费的IT编程入门教程和编程学习平台，本码农网涵盖php、java、mysql、html、css、javascript、jquery等流行的编程入门教程。
+  description: 码农教程旨在为码农们提供免费的IT编程入门教程和编程学习平台,本码农网涵盖php、java、mysql、html、css、javascript、jquery等流行的编程入门教程。
 - name: C语言中文网
   url: http://c.biancheng.net/
   img: /images/logos/biancheng.ico
-  description: C语言中文网是中国领先的C语言程序设计专业网站，提供C语言入门经典教程、C语言编译器、C语言函数手册，C语言编程技巧，C语言考试试题等，是学习、自学C语言程序设计的好帮手。
+  description: C语言中文网是中国领先的C语言程序设计专业网站,提供C语言入门经典教程、C语言编译器、C语言函数手册,C语言编程技巧,C语言考试试题等,是学习、自学C语言程序设计的好帮手。
 - name: 并发编程网
   url: http://ifeve.com/
   img: /images/logos/ifeve.png
@@ -50,11 +50,11 @@
 - name: Spring Boot 中文导航
   url: http://springboot.fun/
   img: /images/logos/springboot_fun.png
-  description: Spring Boot 中文社区资源链接导航，开源代码，博客，工具等
+  description: Spring Boot 中文社区资源链接导航,开源代码,博客,工具等
 - name: Spring Cloud 中文导航
   url: http://springcloud.fun/
   img: /images/logos/springboot_fun.png
-  description: Spring Cloud学习资料，Spring, Spring Cloud, 导航，Spring Cloud 开源项目
+  description: Spring Cloud学习资料,Spring, Spring Cloud, 导航,Spring Cloud 开源项目
 - name: 文档 | Hexo
   url: https://hexo.io/zh-cn/docs/
   img: /images/logos/hexo.png
@@ -66,16 +66,16 @@
 - name: 黑马程序员官网
   url: https://www.itheima.com/
   img: /images/logos/itheima_logo.png
-  description: 黑马程序员专注于IT培训，是传智教育（股票代码003032）旗下高端IT教育品牌，致力于培养中级程序员，是业内以口碑闻名的IT培训机构。
+  description: 黑马程序员专注于IT培训,是传智教育(股票代码003032)旗下高端IT教育品牌,致力于培养中级程序员,是业内以口碑闻名的IT培训机构。
 - name: 遇见狂神说的个人空间_哔哩哔哩_bilibili
   url: https://space.bilibili.com/95256449/
   img: /images/logos/bilibili_log.jpg
-  description: 遇见狂神说，bilibili 知名UP主;编程是爱好，恭喜你发现宝藏男孩一枚~希望你们关注我是因为喜欢我，嘿嘿！哔哩哔哩Bilibili，你感兴趣的视频都在B站。
-- name: 牛客网-找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+  description: 遇见狂神说,bilibili 知名UP主;编程是爱好,恭喜你发现宝藏男孩一枚~希望你们关注我是因为喜欢我,嘿嘿!哔哩哔哩Bilibili,你感兴趣的视频都在B站。
+- name: 牛客网-找工作神器|笔试题库|面试经验|实习招聘内推,求职就业一站解决_牛客网
   url: https://www.nowcoder.com/
   img: /images/logos/nowcoder_white.png
-  description: 求职之前，先上牛客，就业找工作一站解决。互联网IT技术/产品/运营/硬件/汽车机械制造/金融/财务管理/审计/银行/市场营销/地产/快消/管培生等等专业技能学习/备考/求职神器，在线进行企业校招实习笔试面试真题模拟考试练习,全面提升求职竞争力，找到好工作，拿到好offer。
-- name: 书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！
+  description: 求职之前,先上牛客,就业找工作一站解决。互联网IT技术/产品/运营/硬件/汽车机械制造/金融/财务管理/审计/银行/市场营销/地产/快消/管培生等等专业技能学习/备考/求职神器,在线进行企业校招实习笔试面试真题模拟考试练习,全面提升求职竞争力,找到好工作,拿到好offer。
+- name: 书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读,助您【码】力十足!
   url: https://www.bookstack.cn/
   img: /images/logos/bookstack.png
-  description: 书栈网，IT程序员互联网开源编程书籍阅读分享，囊括小程序、前端、后端、移动端、云计算、大数据、区块链、机器学习、人工智能和面试笔试等相关书籍，助你【码】力十足！
+  description: 书栈网,IT程序员互联网开源编程书籍阅读分享,囊括小程序、前端、后端、移动端、云计算、大数据、区块链、机器学习、人工智能和面试笔试等相关书籍,助你【码】力十足！
