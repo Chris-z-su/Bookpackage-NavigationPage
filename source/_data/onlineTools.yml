@@ -46,7 +46,23 @@
 - name: Gmail
   url: https://mail.google.com/
   img: /images/logos/gmail.ico
-  description: Google 的电子邮件服务
+  description: Google的电子邮件服务
+- name: 百度识图搜索结果
+  url: https://graph.baidu.com/pcpage/index?tpl_from=pc
+  img: /images/logos/baidu_logo.png
+  description: 百度图像搜索-领先的图像识别技术连接人与信息-为你搜寻所见
+- name: 搜狗图片搜索
+  url: https://pic.sogou.com/
+  img: /images/logos/sogou.ico
+  description: 搜狗图片搜索 - 上网从搜狗开始
+- name: Google 图片
+  url: https://www.google.com.hk/imghp
+  img: /images/logos/google.png
+  description: 最精准的搜索，最绚丽的浏览。天下美图，尽收眼前。海量图库，精彩分类：生活时尚、潮流女星、闪亮男星、影视集锦、游戏动漫、精美壁纸、爆笑趣图、体育军事、风景名胜。
+- name: TinEye
+  url: https://tineye.com/
+  img: /images/logos/tineye.ico
+  description: TinEye Reverse Image Search
 - name: Linux命令搜索引擎
   url: https://wangchujiang.com/linux-command/
   img: /images/logos/wangchujiang.ico
