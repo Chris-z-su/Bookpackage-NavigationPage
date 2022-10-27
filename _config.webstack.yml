@@ -41,12 +41,12 @@ menu:
   - name: 常用工具
     icon: fa fa-briefcase
     submenu:
-      - name: 在线工具
-        icon: fa fa-bolt
-        config: onlineTools
       - name: 代码托管
         icon: fa fa-code
         config: codeManaged
+      - name: 在线工具
+        icon: fa fa-bolt
+        config: onlineTools
       - name: 实用软件
         icon: fa fa-wrench
         config: commonTools
