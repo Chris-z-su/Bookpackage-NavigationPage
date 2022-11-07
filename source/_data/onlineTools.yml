@@ -79,6 +79,14 @@
   url: https://algorithm-visualizer.org/
   img: /images/logos/algorithm-visualizer.png
   description: Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
+- name: 在线中文打字练习
+  url: https://barneyzhao.gitee.io/typing-cn/
+  img: https://barneyzhao.gitee.io/typing-cn/assets/favicon.17e50649.svg
+  description: 在线中文打字练习
+- name: 在线英文打字练习
+  url: https://qwerty.kaiyi.cool/
+  img: https://qwerty.kaiyi.cool/apple-touch-icon.png
+  description: 在线英文打字练习
 - name: 在线工具 - OSCHINA.NET社区
   url: https://tool.oschina.net/
   img: /images/logos/openchina_logo.png
