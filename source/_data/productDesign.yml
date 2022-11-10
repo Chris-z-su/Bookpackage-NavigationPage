@@ -11,3 +11,31 @@
   url: https://www.meiye.art/
   img: /images/logos/meiye.ico
   description: 美叶,为设计师,创意人提供有价值的设计参考。灵感采集,优质素材获取,时刻Follow最新流行设计趋势
+- name: 演示星球
+  url: https://www.pop-ppt.com/
+  img: /images/logos/pop-ppt.svg
+  description: 免费PPT模板下载
+- name: 字由-让设计更有价值
+  url: https://www.hellofont.cn/
+  img: /images/logos/hellofont.png
+  description: 字由是为设计师量身定做的一款字体下载管理工具。
+- name: 花火数图
+  url: https://hanabi.cn/h2/index
+  img: /images/logos/hanabi.ico
+  description: 花火hanabi是免费的在线图表制作工具。
+- name: Beautiful Free Images & Pictures | Unsplash
+  url: https://unsplash.com/
+  img: /images/logos/unsplash.svg
+  description: Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+- name: Haikei
+  url: https://app.haikei.app/
+  img: /images/logos/haikei.png
+  description: A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
+- name: 免费的图标、剪贴画插图、照片和音乐
+  url: https://igoutu.cn/
+  img: /images/logos/igoutu.png
+  description: 免费下载设计素材：图标、照片、矢量插图和视频音乐。所有素材均由设计师制作 → 质量始终如一⚡️
+- name: Picular
+  url: https://picular.co/
+  img: /images/logos/picular.png
+  description: Picular is a rocket fast primary color generator using Google’s image search. If you ever needed the perfect yellow hex code from a banana, this is the tool for you.

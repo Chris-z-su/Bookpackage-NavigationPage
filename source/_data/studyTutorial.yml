@@ -79,3 +79,39 @@
   url: https://www.bookstack.cn/
   img: /images/logos/bookstack.png
   description: 书栈网,IT程序员互联网开源编程书籍阅读分享,囊括小程序、前端、后端、移动端、云计算、大数据、区块链、机器学习、人工智能和面试笔试等相关书籍,助你【码】力十足！
+- name: Java | Oracle
+  url: https://www.java.com/zh-CN/
+  img: /images/logos/java.png
+  description: 现在就开始使用 Java
+- name: Java Platform, Standard Edition Documentation - Releases
+  url: https://docs.oracle.com/en/java/javase/index.html
+  img: /images/logos/oracle.ico
+  description: Java Platform, Standard Edition documentation, current and previous releases
+- name: MySQL
+  url: https://www.mysql.com/
+  img: /images/logos/mysql.png
+  description: MySQL官网
+- name: Spring | Home
+  url: https://spring.io/
+  img: /images/logos/spring_logo.png
+  description: Level up your Java code and explore what Spring can do for you.
+- name: Redis
+  url: https://redis.io/
+  img: /images/logos/redis.png
+  description: Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures …
+- name: Apache Dubbo
+  url: https://dubbo.apache.org/zh/index.html
+  img: /images/logos/apache_dubbo.png
+  description: Apache Dubbo 官方网站
+- name: Apache Hadoop
+  url: https://hadoop.apache.org/
+  img: /images/logos/hadoop.png
+  description: Apache Hadoop 官方网站
+- name: Linux.org
+  url: https://www.linux.org/
+  img: /images/logos/linux.png
+  description: Friendly Linux Forum
+- name: Vue.js
+  url: https://cn.vuejs.org/
+  img: /images/logos/vuejs.png
+  description: Vue.js渐进式的 JavaScript 框架

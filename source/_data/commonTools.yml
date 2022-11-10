@@ -19,6 +19,10 @@
   url: https://potplayer.tv/?lang=zh_CN
   img: /images/logos/potplayer.jpeg
   description: 进不去访问PotPlayer中文网(http://www.potplayercn.com/),是关于PotPlayer的中文网站,内容有PotPlayer下载,使用教程,插件,直播源,皮肤。PotPlayer支持网络上所有主流的视频音频格式文件,被誉为Windows平台上最优秀的免费影音全能格式播放器。
+- name: ImageGlass - A lightweight, versatile image viewer
+  url: https://imageglass.org/
+  img: /images/logos/imageglass.svg
+  description: ImageGlass is a lightweight, open source photo viewer that designed to take place Windows Photo Viewer, work with all image formats, includes GIF, SVG, HEIC.(https://github.com/d2phap/ImageGlass)
 - name: uTools官网 - 新一代效率工具平台
   url: https://potplayer.tv/?lang=zh_CN
   img: /images/logos/utools.png
@@ -27,42 +31,6 @@
   url: https://www.diagrams.net/
   img: /images/logos/diagrams.ico
   description: Bring your storage to our online tool, or go max privacy with the desktop app.
-- name: Java | Oracle
-  url: https://www.java.com/zh-CN/
-  img: /images/logos/java.png
-  description: 现在就开始使用 Java
-- name: Java Platform, Standard Edition Documentation - Releases
-  url: https://docs.oracle.com/en/java/javase/index.html
-  img: /images/logos/oracle.ico
-  description: Java Platform, Standard Edition documentation, current and previous releases
-- name: MySQL
-  url: https://www.mysql.com/
-  img: /images/logos/mysql.png
-  description: MySQL官网
-- name: Spring | Home
-  url: https://spring.io/
-  img: /images/logos/spring_logo.png
-  description: Level up your Java code and explore what Spring can do for you.
-- name: Redis
-  url: https://redis.io/
-  img: /images/logos/redis.png
-  description: Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures …
-- name: Apache Dubbo
-  url: https://dubbo.apache.org/zh/index.html
-  img: /images/logos/apache_dubbo.png
-  description: Apache Dubbo 官方网站
-- name: Apache Hadoop
-  url: https://hadoop.apache.org/
-  img: /images/logos/hadoop.png
-  description: Apache Hadoop 官方网站
-- name: Linux.org
-  url: https://www.linux.org/
-  img: /images/logos/linux.png
-  description: Friendly Linux Forum
-- name: Vue.js
-  url: https://cn.vuejs.org/
-  img: /images/logos/vuejs.png
-  description: Vue.js渐进式的 JavaScript 框架
 - name: NATAPP-内网穿透 基于ngrok的国内高速内网映射工具
   url: https://natapp.cn/
   img: /images/logos/natapp.ico
