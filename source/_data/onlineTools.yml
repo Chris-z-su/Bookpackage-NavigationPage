@@ -65,7 +65,7 @@
   description: TinEye Reverse Image Search
 - name: Linux命令搜索引擎
   url: https://wangchujiang.com/linux-command/
-  img: /images/logos/wangchujiang.ico
+  img: /images/logos/wangchujiang-linux.ico
   description: Linux命令搜索引擎:最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。
 - name: Maven Repository
   url: https://mvnrepository.com/
@@ -95,6 +95,10 @@
   url: https://c.runoob.com/
   img: /images/logos/runoob_tool.ico
   description: 菜鸟工具,为开发设计人员提供在线工具,网址导航,提供在线PHP、Python、 CSS、JS 调试,中文简繁体转换,进制转换等工具。致力于打造国内专业WEB开发工具,集成开发环境,WEB开发教程。
+- name: Quick Reference
+  url: https://wangchujiang.com/reference/index.html
+  img: /images/logos/wangchujiang-reference.svg
+  description: 为开发人员分享快速参考备忘单。
 - name: Codeimg.io
   url: https://codeimg.io/
   img: /images/logos/codeimg.ico
