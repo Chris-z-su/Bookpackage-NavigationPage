@@ -79,3 +79,11 @@
   url: https://justgetflux.com/
   img: /images/logos/default.png
   description: 国外开源的护眼软件,通过根据时间调节屏幕颜色,减少蓝光对视力的影响
+- name: David Galles
+  url: https://www.cs.usfca.edu/~galles/
+  img: /images/logos/default.png
+  description: David Galles -- University of San Francisco
+- name: oCam(屏幕录像软件) 官方版
+  url: https://ocam.en.softonic.com/
+  img: /images/logos/default.png
+  description: oCam是一款免费屏幕截图、屏幕录像、音频录制软件，还可以录制你的桌面屏幕

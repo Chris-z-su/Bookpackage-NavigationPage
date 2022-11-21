@@ -139,7 +139,7 @@
   url: https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
   img: /images/logos/MinecraftWik.png
   description: 我的世界百科,在线文档,中文Minecraft Wiki
-- name: 世界著名的壁纸网站 电脑桌面壁纸 - WallHere 壁纸库
+- name: WallHere 壁纸库
   url: https://wallhere.com/
   img: /images/logos/wallhere.png
   description: 免费下载超过 1557214 高清桌面壁纸, 世界著名的壁纸网站.
@@ -208,3 +208,15 @@
   url: https://demo.unlock-music.dev/
   img: /images/logos/unlock-music.png
   description: 音乐解锁 - 在任何设备上解锁已购的加密音乐！
+- name: WEB骇客 - HTML5, CSS3, WEB前端开发技术
+  url: https://www.webhek.com/
+  img: /images/logos/default.png
+  description: 关注HTML5、CSS3等浏览器前端技术，包括各种HTML5、CSS3资料，HTML5、CSS3网站、HTML5、CSS3资讯、HTML5、CSS3应用、HTML5、CSS3游戏、HTML5、CSS3教程、HTML5、CSS3视频、HTML5、CSS3论坛等。
+- name: 用HTML5实现的各种排序算法的动画比较
+  url: https://www.webhek.com/post/comparison-sort/
+  img: /images/logos/default.png
+  description: 这是旧金山大学的David Galles教授用HTML5+js制作的数据结构动画课件中算法动画比较部分。
+- name: 一网一匠
+  url: https://www.ywyj.cn/
+  img: /images/logos/default.png
+  description: 一网一匠极速版 - 一起发现有趣的新产品
