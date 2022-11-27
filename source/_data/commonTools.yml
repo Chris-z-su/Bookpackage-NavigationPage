@@ -87,3 +87,7 @@
   url: https://ocam.en.softonic.com/
   img: /images/logos/default.png
   description: oCam是一款免费屏幕截图、屏幕录像、音频录制软件，还可以录制你的桌面屏幕
+- name: SQLite Home Page
+  url: https://www.sqlite.org/index.html
+  img: /images/logos/SQLite.jpeg
+  description: SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
