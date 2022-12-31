@@ -115,3 +115,7 @@
   url: https://cn.vuejs.org/
   img: /images/logos/vuejs.png
   description: Vue.js渐进式的 JavaScript 框架
+- name: Hello 算法
+  url: https://www.hello-algo.com/
+  img: /images/logos/default.png
+  description: 动画图解、能运行、可讨论的数据结构与算法快速入门教程.https://github.com/krahets/hello-algo

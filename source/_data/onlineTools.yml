@@ -191,6 +191,22 @@
   url: https://www.curseforge.com/
   img: /images/logos/curseforge.png
   description: As gamers, we've always used in-game apps and mods. App developers and mod authors add true value to the gaming community. 
+- name: 原神地图
+  url: https://v3.yuanshen.site/#/
+  img: /images/logos/yuanshen_map.png
+  description: 在线原神地图网页版、Windows客户端
+- name: 原魔计算器
+  url: https://genshin.mingyulab.com/
+  img: /images/logos/mingyulab.ico
+  description: 原魔计算器|Genmo Calculator|Genshin impact damage calculator & other tools
+- name: 首页 | 胡桃工具箱
+  url: https://hut.ao/
+  img: /images/logos/HeroImageLogo.png
+  description: 一个实用的多功能原神工具箱
+- name: 首页 | Snap Genshin
+  url: https://www.snapgenshin.com/home/
+  img: /images/logos/snapgenshin.ico
+  description: 你一定会喜欢的原神工具全家桶
 - name: disease.sh
   url: https://disease.sh/
   img: /images/logos/disease.png
@@ -220,19 +236,3 @@
   url: https://www.ywyj.cn/
   img: /images/logos/default.png
   description: 一网一匠极速版 - 一起发现有趣的新产品
-- name: 原神地图
-  url: https://v3.yuanshen.site/#/
-  img: /images/logos/yuanshen_map.png
-  description: 在线原神地图网页版、Windows客户端
-- name: 原魔计算器
-  url: https://genshin.mingyulab.com/
-  img: /images/logos/mingyulab.ico
-  description: 原魔计算器|Genmo Calculator|Genshin impact damage calculator & other tools
-- name: 首页 | 胡桃工具箱
-  url: https://hut.ao/
-  img: /images/logos/HeroImageLogo.png
-  description: 一个实用的多功能原神工具箱
-- name: 首页 | Snap Genshin
-  url: https://www.snapgenshin.com/home/
-  img: /images/logos/snapgenshin.ico
-  description: 你一定会喜欢的原神工具全家桶
