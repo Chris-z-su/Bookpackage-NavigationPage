@@ -89,7 +89,7 @@
   description: 直播聚合平台
 - name: 坤了个坤
   url: http://124.223.82.198/
-  img: http://124.223.82.198/favicon.ico
+  img: /images/logos/default.png
   description: 小游戏：坤了个坤
 - name: 吃掉蔡徐坤
   url: https://xxtyme.github.io/EatCxk/

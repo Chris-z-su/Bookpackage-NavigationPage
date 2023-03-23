@@ -35,6 +35,9 @@ menu:
   - name: 博客论坛
     icon: fa fa-blog
     config: blogBBS
+  - name: 在线工具
+    icon: fa fa-bolt
+    config: onlineTools
   - name: 学习教育
     icon: fa fa-book
     config: studyTutorial
@@ -44,9 +47,6 @@ menu:
       - name: 代码托管
         icon: fa fa-code
         config: codeManaged
-      - name: 在线工具
-        icon: fa fa-bolt
-        config: onlineTools
       - name: 实用软件
         icon: fa fa-wrench
         config: commonTools

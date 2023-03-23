@@ -11,10 +11,46 @@
   url: https://www.google.com.hk/
   img: /images/logos/google.png
   description: Google搜索引擎主要的搜索服务有:网页,图片,音乐,视频,地图,新闻,问答。
+- name:  Yandex
+  url: https://yandex.com/
+  img: /images/logos/yandex.png
+  description: Yandex is a technology company that builds intelligent products and services powered by machine learning. 
+- name:  开发者搜索-Beta-让技术搜索更简单高效 
+  url: https://kaifa.baidu.com/
+  img: /images/logos/baidu_kaifa.ico
+  description: 开发者搜索是一个面向开发者的知识搜索平台，专注于为开发者提供高效的技术搜索服务。
+- name: Google 简明搜索导航 - Fuyeor Live 导航
+  url: https://search.fuyeor.com/zh-cn/Google
+  img: /images/logos/fuyeor.png
+  description: OneLive 简明导航是一款稳定轻快、保护隐私、简洁精致、以用户体验为主的导航页。聚合百度、必应、谷歌、Yandex、OneLiven 四种搜索引擎。
 - name: 360搜索,SO靠谱
   url: https://www.so.com/
   img: /images/logos/360so.ico
   description: 360搜索是安全、精准、可信赖的新一代搜索引擎,依托于360母品牌的安全优势,全面拦截各类钓鱼欺诈等恶意网站,提供更放心的搜索服务。 360搜索 so靠谱。
+- name: 搜狗搜索引擎 - 上网从搜狗开始
+  url: https://www.sogou.com/
+  img: /images/logos/sogou_logo.png
+  description: 搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务。
+- name: 百度识图搜索结果
+  url: https://graph.baidu.com/pcpage/index?tpl_from=pc
+  img: /images/logos/baidu_logo.png
+  description: 百度图像搜索-领先的图像识别技术连接人与信息-为你搜寻所见
+- name: 搜狗图片搜索
+  url: https://pic.sogou.com/
+  img: /images/logos/sogou_logo.png
+  description: 搜狗图片搜索 - 上网从搜狗开始
+- name: Google 图片
+  url: https://www.google.com.hk/imghp
+  img: /images/logos/google.png
+  description: 最精准的搜索，最绚丽的浏览。天下美图，尽收眼前。海量图库，精彩分类：生活时尚、潮流女星、闪亮男星、影视集锦、游戏动漫、精美壁纸、爆笑趣图、体育军事、风景名胜。
+- name: TinEye
+  url: https://tineye.com/
+  img: /images/logos/tineye.ico
+  description: TinEye Reverse Image Search
+- name: Linux命令搜索引擎
+  url: https://wangchujiang.com/linux-command/
+  img: /images/logos/wangchujiang-linux.ico
+  description: Linux命令搜索引擎:最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。
 - name: 百度翻译-200种语言互译、沟通全世界!
   url: https://fanyi.baidu.com/
   img: /images/logos/baidufanyi.png
@@ -31,10 +67,6 @@
   url: https://translate.google.co.kr/
   img: /images/logos/google_translate.ico
   description: Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。
-- name: Google 简明搜索导航 - Fuyeor Live 导航
-  url: https://search.fuyeor.com/zh-cn/Google
-  img: /images/logos/fuyeor.png
-  description: OneLive 简明导航是一款稳定轻快、保护隐私、简洁精致、以用户体验为主的导航页。聚合百度、必应、谷歌、Yandex、OneLiven 四种搜索引擎。
 - name: QQ邮箱
   url: https://mail.qq.com/
   img: /images/logos/qq-mail.png
@@ -47,26 +79,6 @@
   url: https://mail.google.com/
   img: /images/logos/gmail.ico
   description: Google的电子邮件服务
-- name: 百度识图搜索结果
-  url: https://graph.baidu.com/pcpage/index?tpl_from=pc
-  img: /images/logos/baidu_logo.png
-  description: 百度图像搜索-领先的图像识别技术连接人与信息-为你搜寻所见
-- name: 搜狗图片搜索
-  url: https://pic.sogou.com/
-  img: /images/logos/sogou.ico
-  description: 搜狗图片搜索 - 上网从搜狗开始
-- name: Google 图片
-  url: https://www.google.com.hk/imghp
-  img: /images/logos/google.png
-  description: 最精准的搜索，最绚丽的浏览。天下美图，尽收眼前。海量图库，精彩分类：生活时尚、潮流女星、闪亮男星、影视集锦、游戏动漫、精美壁纸、爆笑趣图、体育军事、风景名胜。
-- name: TinEye
-  url: https://tineye.com/
-  img: /images/logos/tineye.ico
-  description: TinEye Reverse Image Search
-- name: Linux命令搜索引擎
-  url: https://wangchujiang.com/linux-command/
-  img: /images/logos/wangchujiang-linux.ico
-  description: Linux命令搜索引擎:最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。
 - name: Maven Repository
   url: https://mvnrepository.com/
   img: /images/logos/mvnrepository.ico
@@ -103,6 +115,10 @@
   url: https://codeimg.io/
   img: /images/logos/codeimg.ico
   description: Create and share beautiful images of your source code.
+- name: Carbon
+  url: https://carbon.now.sh/
+  img: /images/logos/carbon.ico
+  description: Create and share beautiful images of your source code
 - name: 辞典・百科事典の検索サービス - Weblio辞書
   url: https://www.weblio.jp/
   img: /images/logos/weblio.png
@@ -147,17 +163,25 @@
   url: https://www.pixiv.net/
   img: /images/logos/pixiv.ico
   description: pixiv是提供插画等作品的投稿、阅览服务的「插画交流网站」。这里有各种各样不同风格的投稿作品,我们还会举办官方、用户企画的各种比赛。
-- name: Facebook
-  url: https://www.facebook.com/
-  img: /images/logos/facebook.ico
-  description: 联系你我,分享生活,尽在 Facebook
 - name: Faithful
   url: https://faithful.team/
   img: /images/logos/faithful.ico
   description: The official website of Minecraft's most iconic texture pack. Home of the Faithful Community and so much more!
+- name: CurseForge
+  url: https://www.curseforge.com/
+  img: /images/logos/curseforge.png
+  description: As gamers, we've always used in-game apps and mods. App developers and mod authors add true value to the gaming community. 
+- name: OptiFine 中文网 - MINECRAFT 高清优化 MOD
+  url: https://optifine.cn/
+  img: /images/logos/optifine.png
+  description: OptiFine - Minecraft 性能优化及画质提升补丁,高清修复插件
+- name: 图形方格纸 My Graph Paper
+  url: https://www.mygraphpaper.com/index.php?lang=zh-hans
+  img: /images/logos/default.png
+  description: 设计自己专用的图形方格纸, 手帐 DIY - PDF.
 - name: 隔离食用手册
   url: https://cook.yunyoujun.cn/
-  img: https://cook.yunyoujun.cn/favicon.svg
+  img: /images/logos/yunyoujun.svg
   description: 好的,今天我们来做菜！
 - name: 秘塔写作猫
   url: https://xiezuocat.com/#/
@@ -187,10 +211,6 @@
   url: https://limestart.cn/
   img: /images/logos/limestart.png
   description: 青柠起始页由毛若昕和杨尚臻开发,是一个简洁、美观、实用的浏览器起始页。青柠起始页以最简洁的界面容纳了多引擎搜索、自定义网站捷径、便笺等实用功能；您可依据喜好对青柠起始页进行高度自定义,让您的网上冲浪体验更加舒心。
-- name: CurseForge
-  url: https://www.curseforge.com/
-  img: /images/logos/curseforge.png
-  description: As gamers, we've always used in-game apps and mods. App developers and mod authors add true value to the gaming community. 
 - name: 原神地图
   url: https://v3.yuanshen.site/#/
   img: /images/logos/yuanshen_map.png
@@ -212,10 +232,7 @@
   img: /images/logos/disease.png
   description: An open API for disease-related statistics. No signup required.
     Over 45,000,000,000+ Requests & 50 TB of Data Served to Date!
-- name: OptiFine 中文网 - MINECRAFT 高清优化 MOD
-  url: https://optifine.cn/
-  img: /images/logos/optifine.png
-  description: OptiFine - Minecraft 性能优化及画质提升补丁,高清修复插件
+
 - name: 在线转换电子书文件
   url: https://www.aconvert.com/cn/ebook/
   img: /images/logos/default.png
@@ -236,3 +253,11 @@
   url: https://www.ywyj.cn/
   img: /images/logos/default.png
   description: 一网一匠极速版 - 一起发现有趣的新产品
+- name: 小米云服务
+  url: https://i.mi.com/
+  img: /images/logos/mi_cs.ico
+  description: 小米云服务
+- name: vivo云服务
+  url: https://yun.vivo.com.cn/#/home
+  img: /images/logos/default.png
+  description: vivo云服务
