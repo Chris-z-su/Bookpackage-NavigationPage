@@ -1,0 +1,13 @@
+# 浏览器插件
+- name: Greasy Fork
+  url: https://greasyfork.org/zh-CN/
+  img: /images/logos/greasyfork_logo.png
+  description: Greasy Fork - 安全、实用的用户脚本大全
+- name: Brandfetch
+  url: https://brandfetch.com/plugins
+  img: /images/logos/brandfetch_icon.png
+  description: No more context switching! Install our plugin and bring up-to-date logos, colors, fonts, and more straight into your workflow.
+- name: 沉浸式翻译
+  url: https://immersivetranslate.com/
+  img: /images/logos/immersivetranslate.png
+  description: 沉浸式翻译是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF文件翻译，EPUB电子书双语翻译、制作、导出，字幕文件翻译等功能。

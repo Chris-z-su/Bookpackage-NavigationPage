@@ -1,5 +1,8 @@
+# 主题：hexo-theme-webstack(https://github.com/HCLonely/hexo-theme-webstack)
 favicon: /images/favicon.png
-banner: /images/girl.png
+# [可选]分享网站到 twitter 和 facebook 时的图片。
+# /images/girl.png  
+banner: 
 
 logo:
   expanded: /images/logo@2x.png
@@ -26,41 +29,41 @@ userDefinedSearchData:
 
 expandAll: false
 menu:
-  - name: 收藏夹
-    icon: far fa-star
+  - name: 常用推荐
+    icon: fa fa-star
     config: favorite
   - name: 博客论坛
-    icon: far fa-star
+    icon: fa fa-blog
     config: blogBBS
-  - name: 视频教程
-    icon: far fa-star
-    config: videoTutorial
+  - name: 在线工具
+    icon: fa fa-bolt
+    config: onlineTools
+  - name: 学习教育
+    icon: fa fa-book
+    config: studyTutorial
   - name: 常用工具
-    icon: far fa-star
+    icon: fa fa-briefcase
     submenu:
-      - name: 在线工具
-        icon: fas fa-star
-        config: onlineTools
       - name: 代码托管
-        icon: fas fa-star
+        icon: fa fa-code
         config: codeManaged
       - name: 实用软件
-        icon: fas fa-star
+        icon: fa fa-wrench
         config: commonTools
-      - name: Chrome插件
-        icon: far fa-star
+      - name: 浏览器插件
+        icon: fa fa-puzzle-piece
         config: plugIn
   - name: 博客收藏
-    icon: far fa-star
+    icon: fa fa-bookmark
     config: favoriteBlog
   - name: 产品设计
-    icon: far fa-star
+    icon: fa fa-palette
     config: productDesign
   - name: 新闻资讯
-    icon: far fa-star
+    icon: fa fa-newspaper
     config: news
   - name: 休闲娱乐
-    icon: far fa-star
+    icon: fa fa-headphones
     config: recreation
 
   # - name: 模板
@@ -68,206 +71,30 @@ menu:
   #   img: /images/logos/default.png
   #   description: 简介
 
-
-# 收藏夹
-favorite:
-  - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
-    url: https://www.bilibili.com/
-    img: /images/logos/bilibili.png
-    description: 哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
-
-# 博客论坛
-blogBBS:
-  - name: 博客园
-    url: https://www.cnblogs.com/
-    img: /images/logos/cnblogs_logo.png
-    description: 代码改变世界
-  - name: 稀土掘金
-    url: https://juejin.cn/
-    img: /images/logos/juejin_logo.png
-    description: 一个帮助开发者成长的社区
-  - name: CSDN
-    url: https://www.csdn.net/
-    img: /images/logos/csdn_logo.png
-    description: 全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
-  - name: Stack Overflow
-    url: https://stackoverflow.com/
-    img: /images/logos/stackoverflow.png
-    description: 全球最受程序员欢迎的开发社区
-
-# 视频教程
-videoTutorial:
-  - name: 黑马程序员官网-IT培训机构|java培训|前端培训|python培训|大数据培训
-    url: https://www.itheima.com/
-    img: /images/logos/itheima_logo.png
-    description: 黑马程序员专注于IT培训，开设java培训、大数据培训、web前端培训、python培训、人工智能培训、软件测试培训、产品经理培训、智能机器人软件开发培训等多门IT培训课程，提供java培训、Java开发培训、python开发培训、大数据培训、web前端开发培训、python培训、人工智能培训等IT培训服务，黑马程序员是传智教育（股票代码003032）旗下高端IT教育品牌，致力于培养中级程序员，是业内以口碑闻名的IT培训机构。
-  - name: 慕课网-程序员的梦工厂
-    url: https://www.imooc.com/
-    img: /images/logos/imooc_icon.png
-    description: 慕课网（IMOOC）是IT技能学习平台。慕课网(IMOOC)课程涉及JAVA、前端、Python、大数据等60类主流技术语言，覆盖了面试就业、职业成长、自我提升等需求场景，帮助用户实现从技能提升到岗位提升的能力闭环。
-
-# 在线工具
-onlineTools:
-  - name: 在线工具 —— OSCHINA.NET社区
-    url: https://tool.oschina.net/
-    img: /images/logos/openchina_logo.png
-    description: OSCHINA.NET在线工具,ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具
-  - name: 唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载
-    url: https://www.jijidown.com/
-    img: https://www.jijidown.com/static/favicon.ico
-    description: 
-  - name: 下歌吧_音乐免费下载_音乐在线试听_无损音乐下载
-    url: https://music.y444.cn/#/
-    img: /images/logos/5eb903cb7e261c1f0b4e6b77.png
-    description: 本站名为下歌吧，免费提供音乐在线试听、下载服务，是全网最全、最快的音乐下载网站，提供超高、无损等音质音乐下载，在线下载歌曲，在线免费下载音乐，免费下载歌曲等服务。
-
-
-# 代码托管
-codeManaged:
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台
-  - name: Gitee - 基于 Git 的代码托管和研发协作平台
-    url: https://gitee.com/
-    img: https://gitee.com/static/images/logo_themecolor.png
-    description: Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 800 万的开发者选择 Gitee。
-  - name: The One DevOps Platform | GitLab
-    url: https://about.gitlab.com/
-    img: /images/logos/gitlab_icon.png
-    description: From planning to production, bring teams together in one application. Ship secure code faster, deploy to any cloud, and drive business results.
-
-# 实用软件
-commonTools:
-  - name: CCleaner
-    url: https://www.ccleaner.com/
-    img: /images/logos/ccleaner-icon.png
-    description: 一款免费的系统优化和隐私保护工具
-  - name: Global Potplayer
-    url: https://potplayer.tv/?lang=zh_CN
-    img: https://t1.daumcdn.net/potplayer/main/img/favicon.ico
-    description: 进不去访问PotPlayer中文网(http://www.potplayercn.com/)，是关于PotPlayer的中文网站，内容有PotPlayer下载,使用教程,插件,直播源,皮肤。PotPlayer支持网络上所有主流的视频音频格式文件，被誉为Windows平台上最优秀的免费影音全能格式播放器。
-  - name: PowerToys
-    url: https://github.com/microsoft/PowerToys
-    img: /images/logos/github_black.png
-    description: 微软为 Windows 系统推出的一系列免费实用小工具合集
-  - name: Fliqlo
-    url: https://fliqlo.com/
-    img: /images/logos/default.png
-    description: 一款极简主义的时钟屏保软件
-  - name: f.lux
-    url: https://justgetflux.com/
-    img: /images/logos/default.png
-    description: 国外开源的护眼软件，通过根据时间调节屏幕颜色，减少蓝光对视力的影响
-
-# Chrome插件
-plugIn:
-  - name: Greasy Fork
-    url: https://greasyfork.org/zh-CN/
-    img: /images/logos/greasyfork_logo.png
-    description: Greasy Fork - 安全、实用的用户脚本大全
-  - name: Brandfetch
-    url: https://brandfetch.com/plugins
-    img: /images/logos/brandfetch_icon.png
-    description: No more context switching! Install our plugin and bring up-to-date logos, colors, fonts, and more straight into your workflow.
-
-
-# 博客收藏
-favoriteBlog:
-  - name: HCLonely Blog
-    url: https://blog.hclonely.com/
-    img: /images/logos/hclonelyBlog.png
-    description: 一个懒人的博客。
-  - name: LuckySec
-    url: http://luckyzmj.cn/
-    img: https://s1.ax1x.com/2020/05/17/YR20js.jpg
-    description: LuckySecの博客
-  - name: 126云导航 - 最好用的浏览器主页
-    url: https://www.126yun.cn/
-    img: https://www.126yun.cn/static/theme/navigate/assets/images/favicon.png
-    description: 最好用的浏览器主页，拒绝流氓主页
-
- 
-# 产品设计
-productDesign:
-  - name: 花瓣网 - 陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）
-    url: https://huaban.com/
-    img: https://st0.dancf.com/static/02/202201151128-a455.svg
-    description: 花瓣网, 设计师寻找灵感的天堂！图片素材领导者，帮你采集、发现网络上你喜欢的事物。你可以用它收集灵感,保存有用的素材,计划旅行,晒晒自己想要的东西
-
-
-# 新闻资讯
-news:
-  - name: 虎嗅网
-    url: https://www.huxiu.com/
-    img: /images/logos/huxiu_logo.png
-    description: 聚合优质的创新信息与人群，捕获精选|深度|犀利的商业科技资讯。在虎嗅，不错过互联网的每个重要时刻。
-  - name: 36氪_让一部分人先看到未来
-    url: https://www.36kr.com/
-    img: https://www.36kr.com/favicon.ico
-    description: 36氪通过全面，独家的视角为用户深度剖析最前沿的资讯，致力于让一部分人先看到未来，内容涵盖快讯，科技，金融，投资，房产，汽车，互联网，股市，教育，生活，职场等，秉承着新商业媒体人的使命砥砺前行
-
-# 休闲娱乐
-recreation:
-  - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
-    url: https://www.bilibili.com/
-    img: /images/logos/bilibili.png
-    description: 哔哩哔哩(bilibili.com)是国内知名的视频弹幕网站。
-  - name: 虎牙直播-技术驱动娱乐-弹幕式互动直播平台
-    url: https://www.huya.com/
-    img: /images/logos/huya_icon.png
-    description: 虎牙直播是以游戏直播为主的弹幕式互动直播平台。
-  - name: AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
-    url: http://www.acfun.cn/
-    img: https://cdn.aixifan.com/ico/favicon.ico
-    description: AcFun是国内首家弹幕视频网站，这里有全网独家动漫新番， 友好的弹幕氛围，有趣的UP主，好玩有科技感的虚拟偶像，年轻人都在用。
-  - name: 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心
-    url: https://www.ixigua.com/
-    img: https://sf1-cdn-tos.douyinstatic.com/obj/eden-cn/lpqpflo/ixigua_favicon.ico
-    description: 西瓜视频是一个开眼界、涨知识的视频 App。
-  - name: 樱花动漫－专注动漫的门户网站
-    url: http://www.yinghuacd.com/
-    img: http://www.yinghuacd.com/js/20180601/favicon.ico
-    description: 樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。
-  - name: 首页 - 知乎
-    url: https://www.zhihu.com/
-    img: https://static.zhihu.com/heifetz/favicon.ico
-    description: 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台。
-  - name: 三十六计_三十六计网页游戏_游族战神三十六计游戏官网
-    url: https://36.youzu.com/
-    img: https://www.youzu.com/favicon.ico
-    description: 《三十六计》是由游族网络的战神工作室潜心打造的一款优质三国策略网页游戏，以三十六计和一统天下为战略核心，为广大策略爱好者提供了开拓疆土、群雄逐鹿的终极战场，真正开启了新的三国史诗篇章。
-  - name: 好看的电视剧_好看的电影_好看的动画片在线免费观看_樱花风车 - 子子影院
-    url: http://ziziyy1.com/
-    img: /images/logos/default.png
-    description: 子子影院收集整理最新好看的电视剧,最新电影,最新动画片在线观看，致力打造专业在线视频网站.
-
-
-
 about:
-  url: /#
-  icon: far fa-heart
+  url: /about/
+  icon: fa fa-user
   name: 关于本站
 
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+    html: '<blockquote><p>本站是<a href="https://chris-z-su.github.io/">Bookpackage</a>的导航网站。</p></blockquote>'
   webmaster:
     head: 关于站长
     name: Chris
     url: https://chris-z-su.github.io/NavigationPage/
-    img: /images/logos/myblog.png
+    img: /images/avatar.jpg
     description: 为实现中华民族伟大复兴的中国梦而努力奋斗。
-    html: '<br /><blockquote><p>本站是<a href="https://github.com/Chris-z-su/">Chris</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+    html: '<br /><span>这个人很懒，什么都没留下。</span>'
 
 since: 2022
 
 busuanzi:
-  enable: false
+  enable: true
   position: sidebar # 'footer','sidebar'
-  pv: 本站总访问量$pv
-  uv: 本站总访客数$uv
+  pv: 总访问量$pv
+  uv: 总访客数$uv
 
 custom:
   head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
@@ -303,7 +130,3 @@ css:
   xenonComponents: /css/xenon-components.min.css
   xenonSkins: /css/xenon-skins.min.css
   nav: /css/nav.min.css
-
-
-githubCorner: '<a href="https://chris-z-su.github.io/" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>'
-

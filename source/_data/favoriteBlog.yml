@@ -1,0 +1,57 @@
+# 博客收藏
+- name: Web前端导航
+  url: http://www.alloyteam.com/nav/
+  img: /images/logos/alloyteam.jpg
+  description: Web前端导航网站
+- name: 126云导航 - 最好用的浏览器主页
+  url: https://www.126yun.cn/
+  img: /images/logos/126yun.png
+  description: 最好用的浏览器主页,拒绝流氓主页
+- name: KuangStudy
+  url: https://www.kuangstudy.com/
+  img: /images/logos/kuangstudy.jpg
+  description: KuangStudy是一个致力于为每个想学习知识的人提供一个少走弯路的平台,包含优质体系课程、文章博客、专栏书写、技术论坛、资源下载等产品服务,提供有用、优质、完整内容的自学交流社区.
+- name: 廖雪峰的官方网站
+  url: https://www.liaoxuefeng.com/
+  img: /images/logos/default.png
+  description: 研究互联网产品和技术,提供原创中文精品教程
+- name: 阮一峰的个人网站 - Ruan YiFeng's Personal Website
+  url: https://www.ruanyifeng.com/
+  img: /images/logos/default.png
+  description: 阮一峰的个人网站
+- name: AlgoMooc算法慕课网_采取看动画的形式刷 LeetCode 通过算法面试！
+  url: https://www.algomooc.com/
+  img: /images/logos/algomooc.png
+  description: 看动画,学算法,认准吴师兄,和吴师兄一起学算法。
+- name: wangxj2020
+  url: http://wangxj2020.gitee.io/
+  img: http://wangxj2020.gitee.io/favicon.png
+  description: wangxj2020
+- name: HCLonely Blog
+  url: https://blog.hclonely.com/
+  img: /images/logos/hclonelyBlog.png
+  description: 一个懒人的博客。
+- name: LuckySec
+  url: http://luckyzmj.cn/
+  img: /images/logos/LuckySec.jpg
+  description: LuckySecの博客
+- name: 张小驰出没
+  url: https://www.moyuzc.cn/
+  img: /images/logos/moyuzc.jpg
+  description: Welcome to my world
+- name: 路过图床站长日志
+  url: https://blog.imgchr.com/
+  img: /images/logos/default.png
+  description: 路过图床站长日志, 点滴记录网站发展
+- name: 小弟调调™
+  url: https://wangchujiang.com/
+  img: /images/logos/wangchujiang.ico
+  description: 小弟调调™ - (͡·̮̃·̃) 撸码的乐趣 💯 ，“人没了，™代码还在”
+- name: 零度解說 - 零度博客
+  url: https://www.freedidi.com/
+  img: /images/logos/default.png
+  description: 零度博客
+- name: HelloGitHub
+  url: https://hellogithub.com/
+  img: /images/logos/hellogithub.png
+  description: 分享 GitHub 上有趣、入门级的开源项目

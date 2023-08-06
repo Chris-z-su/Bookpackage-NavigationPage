@@ -1,0 +1,97 @@
+# 实用软件
+- name: Notion - One workspace. Every team.
+  url: https://www.notion.so/
+  img: /images/logos/notion.ico
+  description: We're more than a doc. Or a table. Customize Notion to work the way you do.
+- name: 微信读书-正版书籍小说免费阅读
+  url: https://weread.qq.com/
+  img: /images/logos/wread.png
+  description: 微信读书提供海量正版书籍、小说、漫画、公众号、听书,多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书,随时交流感想,让阅读不再孤独。
+- name: Google Chrome 网络浏览器
+  url: https://www.google.cn/intl/zh-CN/chrome/
+  img: /images/logos/google.png
+  description: 得益于 Google 智能工具,Chrome 现在更易用、更安全、更快速。
+- name: CCleaner
+  url: https://www.ccleaner.com/
+  img: /images/logos/ccleaner-icon.png
+  description: 一款免费的系统优化和隐私保护工具
+- name: Potplayer
+  url: https://potplayer.tv/?lang=zh_CN
+  img: /images/logos/potplayer.jpeg
+  description: 进不去访问PotPlayer中文网(http://www.potplayercn.com/),是关于PotPlayer的中文网站,内容有PotPlayer下载,使用教程,插件,直播源,皮肤。PotPlayer支持网络上所有主流的视频音频格式文件,被誉为Windows平台上最优秀的免费影音全能格式播放器。
+- name: ImageGlass - A lightweight, versatile image viewer
+  url: https://imageglass.org/
+  img: /images/logos/imageglass.svg
+  description: ImageGlass is a lightweight, open source photo viewer that designed to take place Windows Photo Viewer, work with all image formats, includes GIF, SVG, HEIC.(https://github.com/d2phap/ImageGlass)
+- name: uTools官网 - 新一代效率工具平台
+  url: https://potplayer.tv/?lang=zh_CN
+  img: /images/logos/utools.png
+  description: uTools 是什么? uTools 是新一代效率工具平台,自由组合插件应用,打造专属你的趁手工具集
+- name: Diagram
+  url: https://www.diagrams.net/
+  img: /images/logos/diagrams.ico
+  description: Bring your storage to our online tool, or go max privacy with the desktop app.
+- name: NATAPP-内网穿透 基于ngrok的国内高速内网映射工具
+  url: https://natapp.cn/
+  img: /images/logos/natapp.ico
+  description: natapp是基于ngrok的国内高速内网穿透专业服务商
+- name: Nova Skin - Minecraft Wallpaper Generator with custom skins
+  url: https://minecraft.novaskin.me/wallpapers
+  img: /images/logos/novaskin-100.png
+  description: Select a image to start. You can customize the wallpaper with your own skins.
+- name: Share Mouse
+  url: https://www.sharemouse.com/
+  img: /images/logos/utools.png
+  description: Mouse and Keyboard Sharing to control a Windows or Mac PC with the mouse and keyboard of any other PC. Or drag &amp; drop files between multiple computers.
+- name: 为女友写的练习打字小游戏
+  url: https://www.52pojie.cn/thread-1693820-1-1.html
+  img: /images/logos/52pojie.png
+  description: 女友前几天突然给我说想学电脑！学电脑首先就是熟悉键盘练习打字,想起我刚接触电脑时,练习最多的就是某款掉落苹果字母练习的小游戏！这种游戏不复杂,懒得去网上找 ... 为女友写的练习打字小游戏 ,吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+- name: 官方网站 | Minecraft
+  url: https://www.minecraft.net/zh-hans
+  img: /images/logos/minecraft.png
+  description: 我的世界是一款堆方块、不断冒险的游戏。在此购买,或浏览网站了解最新消息和社区的精彩创意！
+- name: Sakura Frp
+  url: https://www.natfrp.com/
+  img: /images/logos/default.png
+  description: SakuraFrp内网穿透工具, SakuraFrp 帮助文档(https://doc.natfrp.com/#/)
+- name: NATAPP-内网穿透
+  url: https://natapp.cn/
+  img: /images/logos/default.png
+  description: natapp是基于ngrok的国内高速内网穿透专业服务商,独家彻底解决ngrok1.7内存泄漏问题.稳定拒绝掉线,适用于微信开发调试,本地架设演示服务器,外网可以访问,远程服务器,远程桌面,远程办公,游戏联机等
+- name: FFmpeg
+  url: https://github.com/FFmpeg/FFmpeg/
+  img: /images/logos/github_black.png
+  description: FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- name: MyRadio for Android 解锁VIP版
+  url: https://www.yxssp.com/38612.html
+  img: /images/logos/yx250.png
+  description: MyRadio 是一款收听广播的应用,让您收听来自世界各地的50000多个网络广播。
+- name: PowerToys
+  url: https://github.com/microsoft/PowerToys
+  img: /images/logos/github_black.png
+  description: 微软为 Windows 系统推出的一系列免费实用小工具合集
+- name: Fliqlo
+  url: https://fliqlo.com/
+  img: /images/logos/default.png
+  description: 一款极简主义的时钟屏保软件
+- name: f.lux
+  url: https://justgetflux.com/
+  img: /images/logos/default.png
+  description: 国外开源的护眼软件,通过根据时间调节屏幕颜色,减少蓝光对视力的影响
+- name: David Galles
+  url: https://www.cs.usfca.edu/~galles/
+  img: /images/logos/default.png
+  description: David Galles -- University of San Francisco
+- name: oCam(屏幕录像软件) 官方版
+  url: https://ocam.en.softonic.com/
+  img: /images/logos/default.png
+  description: oCam是一款免费屏幕截图、屏幕录像、音频录制软件，还可以录制你的桌面屏幕
+- name: SQLite Home Page
+  url: https://www.sqlite.org/index.html
+  img: /images/logos/SQLite.jpeg
+  description: SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+- name: 基督教圣经在线阅读搜索
+  url: http://www.godcom.net/
+  img: /images/logos/godcom.ico
+  description: 提供多种在线版本圣经：有和合本、思高本、吕振中、拼音圣经、新译本、灵修版、文理本等，是基督徒阅读圣经、经文搜索、收听圣经朗读的最佳网站!

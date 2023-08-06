@@ -1,0 +1,294 @@
+# 在线工具
+- name: 百度一下,你就知道
+  url: https://www.baidu.com/
+  img: /images/logos/baidu_logo.png
+  description: 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息,找到所求。百度超过千亿的中文网页数据库,可以瞬间找到相关的搜索结果。
+- name: 必应
+  url: https://cn.bing.com/
+  img: /images/logos/bing.ico
+  description: 必应可帮助你将理论付诸实践,使得搜索更加方便快捷,从而达到事半功倍的效果。
+- name: Google
+  url: https://www.google.com.hk/
+  img: /images/logos/google.png
+  description: Google搜索引擎主要的搜索服务有:网页,图片,音乐,视频,地图,新闻,问答。
+- name:  Yandex
+  url: https://yandex.com/
+  img: /images/logos/yandex.png
+  description: Yandex is a technology company that builds intelligent products and services powered by machine learning. 
+- name:  开发者搜索-Beta-让技术搜索更简单高效 
+  url: https://kaifa.baidu.com/
+  img: /images/logos/baidu_kaifa.ico
+  description: 开发者搜索是一个面向开发者的知识搜索平台，专注于为开发者提供高效的技术搜索服务。
+- name: Google 简明搜索导航 - Fuyeor Live 导航
+  url: https://search.fuyeor.com/zh-cn/Google
+  img: /images/logos/fuyeor.png
+  description: OneLive 简明导航是一款稳定轻快、保护隐私、简洁精致、以用户体验为主的导航页。聚合百度、必应、谷歌、Yandex、OneLiven 四种搜索引擎。
+- name: 360搜索,SO靠谱
+  url: https://www.so.com/
+  img: /images/logos/360so.ico
+  description: 360搜索是安全、精准、可信赖的新一代搜索引擎,依托于360母品牌的安全优势,全面拦截各类钓鱼欺诈等恶意网站,提供更放心的搜索服务。 360搜索 so靠谱。
+- name: 搜狗搜索引擎 - 上网从搜狗开始
+  url: https://www.sogou.com/
+  img: /images/logos/sogou_logo.png
+  description: 搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务。
+- name: OpenAI
+  url: https://openai.com/
+  img: /images/logos/openai.png
+  description: Creating safe AGI that benefits all of humanity
+- name: ChatGPT
+  url: https://chat.openai.com/
+  img: /images/logos/openai.png
+  description: We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
+- name: Pandora ChatGPT
+  url: https://chat.zhile.io/
+  img: /images/logos/openai.ico
+  description: A conversational AI system that listens, learns, and challenges
+- name: shared ChatGPT
+  url: https://chat-shared2.zhile.io/
+  img: /images/logos/default.png
+  description: 潘多拉, 一个让你呼吸顺畅的ChatGPT.https://github.com/pengzhile/pandora
+- name: 免费的共享ChatGPT账号
+  url: https://chat-shared2.zhile.io/shared.html
+  img: /images/logos/default.png
+  description: 免费的共享ChatGPT账号
+- name: 免费学习测试(ChatGPT)
+  url: https://chat.wuguokai.cn/#/chat/
+  img: /images/logos/default.png
+  description: 免费学习测试
+- name: Phind:AI search engine
+  url: https://www.phind.com/
+  img: /images/logos/phind.png
+  description: Get instant answers, explanations, and examples for all of your technical questions.
+- name: 百度识图搜索结果
+  url: https://graph.baidu.com/pcpage/index?tpl_from=pc
+  img: /images/logos/baidu_logo.png
+  description: 百度图像搜索-领先的图像识别技术连接人与信息-为你搜寻所见
+- name: 搜狗图片搜索
+  url: https://pic.sogou.com/
+  img: /images/logos/sogou_logo.png
+  description: 搜狗图片搜索 - 上网从搜狗开始
+- name: Google 图片
+  url: https://www.google.com.hk/imghp
+  img: /images/logos/google.png
+  description: 最精准的搜索，最绚丽的浏览。天下美图，尽收眼前。海量图库，精彩分类：生活时尚、潮流女星、闪亮男星、影视集锦、游戏动漫、精美壁纸、爆笑趣图、体育军事、风景名胜。
+- name: TinEye
+  url: https://tineye.com/
+  img: /images/logos/tineye.ico
+  description: TinEye Reverse Image Search
+- name: Linux命令搜索引擎
+  url: https://wangchujiang.com/linux-command/
+  img: /images/logos/wangchujiang-linux.ico
+  description: Linux命令搜索引擎:最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。 - 最专业的Linux命令大全,内容包含Linux命令手册、详解、学习,值得收藏的Linux命令速查手册。
+- name: 百度翻译-200种语言互译、沟通全世界!
+  url: https://fanyi.baidu.com/
+  img: /images/logos/baidufanyi.png
+  description: 百度翻译提供即时免费200+语言翻译服务,拥有网页、APP、API产品,支持文本翻译、文档翻译、图片翻译等特色功能,满足用户查词翻译、文献翻译、合同翻译等需求,随时随地沟通全世界
+- name: 在线翻译_有道
+  url: https://fanyi.youdao.com/
+  img: /images/logos/youdao.png
+  description: 有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译服务。
+- name: DeepL翻译:全世界最准确的翻译
+  url: https://www.deepl.com/translator
+  img: /images/logos/deepl.png
+  description: 即时翻译文本&完整的文档文件。为个人和团队提供准确的翻译。每天有数百万人使用DeepL进行翻译。
+- name: Google 翻译
+  url: https://translate.google.co.kr/
+  img: /images/logos/google_translate.ico
+  description: Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。
+- name: QQ邮箱
+  url: https://mail.qq.com/
+  img: /images/logos/qq-mail.png
+  description: QQ邮箱,为亿万用户提供高效稳定便捷的电子邮件服务。
+- name: 163网易免费邮-你的专业电子邮局
+  url: https://mail.163.com/
+  img: https://mail.163.com/favicon.ico
+  description: 网易163免费邮箱,你的专业电子邮局,注册用户数超10亿,专业稳定安全。网易邮箱官方App“邮箱大师”帮您高效处理邮件,支持所有邮箱,并可在手机、Windows和Mac上多端协同使用。
+- name: Gmail
+  url: https://mail.google.com/
+  img: /images/logos/gmail.ico
+  description: Google的电子邮件服务
+- name: Maven Repository
+  url: https://mvnrepository.com/
+  img: /images/logos/mvnrepository.ico
+  description: Maven Repository - Search/Browse/Explore
+- name: Maven Central Repository Search
+  url: https://search.maven.org/
+  img: /images/logos/maven_search.ico
+  description: Official search by the maintainers of Maven Central Repository
+- name: Algorithm Visualizer
+  url: https://algorithm-visualizer.org/
+  img: /images/logos/algorithm-visualizer.png
+  description: Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
+- name: 在线中文打字练习
+  url: https://barneyzhao.gitee.io/typing-cn/
+  img: https://barneyzhao.gitee.io/typing-cn/assets/favicon.17e50649.svg
+  description: 在线中文打字练习
+- name: 在线英文打字练习
+  url: https://qwerty.kaiyi.cool/
+  img: https://qwerty.kaiyi.cool/apple-touch-icon.png
+  description: 在线英文打字练习
+- name: 在线工具 - OSCHINA.NET社区
+  url: https://tool.oschina.net/
+  img: /images/logos/openchina_logo.png
+  description: OSCHINA.NET在线工具,ostools为开发设计人员提供在线工具,提供jsbin在线 CSS、JS 调试,在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器,MarkDown编译器等其他在线工具
+- name: 菜鸟工具 - 不止于工具
+  url: https://c.runoob.com/
+  img: /images/logos/runoob_tool.ico
+  description: 菜鸟工具,为开发设计人员提供在线工具,网址导航,提供在线PHP、Python、 CSS、JS 调试,中文简繁体转换,进制转换等工具。致力于打造国内专业WEB开发工具,集成开发环境,WEB开发教程。
+- name: Quick Reference
+  url: https://wangchujiang.com/reference/index.html
+  img: /images/logos/wangchujiang-reference.svg
+  description: 为开发人员分享快速参考备忘单。
+- name: Codeimg.io
+  url: https://codeimg.io/
+  img: /images/logos/codeimg.ico
+  description: Create and share beautiful images of your source code.
+- name: Carbon
+  url: https://carbon.now.sh/
+  img: /images/logos/carbon.ico
+  description: Create and share beautiful images of your source code
+- name: 辞典・百科事典の検索サービス - Weblio辞書
+  url: https://www.weblio.jp/
+  img: /images/logos/weblio.png
+  description: Weblioは560の専門辞書や国語辞典、百科事典から一度に検索する辞書サイトです。
+- name: 唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载
+  url: https://www.jijidown.com/
+  img: /images/logos/jijidown.ico
+  description: bilibili视频|弹幕在线下载
+- name: 下歌吧_音乐免费下载_音乐在线试听_无损音乐下载
+  url: https://music.y444.cn/#/
+  img: /images/logos/y444.png
+  description: 本站名为下歌吧,免费提供音乐在线试听、下载服务,是全网最全、最快的音乐下载网站,提供超高、无损等音质音乐下载,在线下载歌曲,在线免费下载音乐,免费下载歌曲等服务。
+- name: 盲盒搜索
+  url: http://www.xbinweb.com/search/
+  img: /images/logos/xbinweb.ico
+  description: 跳出信息茧房,随机获取盲盒关键字。
+- name: Zilibrary - 数字图书馆。搜索书籍。免费下载书籍
+  url: https://zh.b-ok.asia/
+  img: /images/logos/zilibrary_logo.png
+  description: 数字图书馆。搜索书籍。免费下载书籍 | Z-Library. Download books for free. Find books
+- name: 熊猫搜书-熊猫搜索_聚合文档搜索导航
+  url: https://xmsoushu.com/#/
+  img: /images/logos/xmsoushu.png
+  description: 熊猫搜索,熊猫搜书,聚合第三方文档、电子书导航网站和搜索引擎,快速检索网络资源。
+- name: Jiumo Search 鸠摩搜索 - 文档搜索引擎
+  url: https://www.jiumodiary.com/
+  img: /images/logos/jiumodiary.png
+  description: 鸠摩搜索引擎
+- name: 维基百科,自由的百科全书
+  url: http://zh.wikipedia.org/
+  img: /images/logos/wikipedia.ico
+  description: 维基百科,自由的百科全书(https://en.wikipedia.org/wiki/Main_Page)
+- name: 中文Minecraft Wiki - 最详细的我的世界百科
+  url: https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
+  img: /images/logos/MinecraftWik.png
+  description: 我的世界百科,在线文档,中文Minecraft Wiki
+- name: WallHere 壁纸库
+  url: https://wallhere.com/
+  img: /images/logos/wallhere.png
+  description: 免费下载超过 1557214 高清桌面壁纸, 世界著名的壁纸网站.
+- name: 路过图床
+  url: https://imgse.com/
+  img: /images/logos/imgse.png
+  description: 路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.
+- name: pixiv
+  url: https://www.pixiv.net/
+  img: /images/logos/pixiv.ico
+  description: pixiv是提供插画等作品的投稿、阅览服务的「插画交流网站」。这里有各种各样不同风格的投稿作品,我们还会举办官方、用户企画的各种比赛。
+- name: Faithful
+  url: https://faithful.team/
+  img: /images/logos/faithful.ico
+  description: The official website of Minecraft's most iconic texture pack. Home of the Faithful Community and so much more!
+- name: CurseForge
+  url: https://www.curseforge.com/
+  img: /images/logos/curseforge.png
+  description: As gamers, we've always used in-game apps and mods. App developers and mod authors add true value to the gaming community. 
+- name: OptiFine 中文网 - MINECRAFT 高清优化 MOD
+  url: https://optifine.cn/
+  img: /images/logos/optifine.png
+  description: OptiFine - Minecraft 性能优化及画质提升补丁,高清修复插件
+- name: 图形方格纸 My Graph Paper
+  url: https://www.mygraphpaper.com/index.php?lang=zh-hans
+  img: /images/logos/default.png
+  description: 设计自己专用的图形方格纸, 手帐 DIY - PDF.
+- name: 隔离食用手册
+  url: https://cook.yunyoujun.cn/
+  img: /images/logos/yunyoujun.svg
+  description: 好的,今天我们来做菜！
+- name: 秘塔写作猫
+  url: https://xiezuocat.com/#/
+  img: /images/logos/xiezuocat.ico
+  description: 写作猫是新一代交互式中英文写作辅助平台,集智能文本纠错、改写润色、自动续写、智能配图为一体。
+- name: Learning Music
+  url: https://learningmusic.ableton.com/
+  img: /images/logos/learningmusic.ico
+  description: Explore the fundamentals of music via Ableton's interactive website. Experiment with beats, melody, harmony, basslines, and song structure in your web browser.
+- name: 元贝驾考
+  url: https://www.ybjk.com/
+  img: /images/logos/yuanbei_logo.png
+  description: 元贝驾考官网www.ybjk.com,提供元贝驾考2022科目一和元贝驾考2022科目四以及元贝驾考2022新题库.
+- name: 中华诗词网：古诗鉴赏,诗歌荟萃【中国诗词电子化计划】
+  url: http://www.haoshici.com/
+  img: /images/logos/haoshici.ico
+  description: 将中国历代诗词作品总汇于一站的诗词全集的纂辑计划,肇始于2009年。中华诗词网迄今已录得44,479位作者约1,174,695首作品。
+- name: 原神地图
+  url: https://v3.yuanshen.site/#/
+  img: /images/logos/yuanshen_map.png
+  description: 在线原神地图网页版、Windows客户端
+- name: 原神WIKI_BWIKI_哔哩哔哩
+  url: https://wiki.biligame.com/ys/首页
+  img: /images/logos/yswiki_logo.png
+  description: 欢迎来到原神WIKI,这是开放编辑由玩家制作的游戏数据库,整合了详细原神相关图鉴资料和攻略内容,为玩家提供最全面的原神大地图全资源点工具。
+- name: 原魔计算器
+  url: https://genshin.mingyulab.com/
+  img: /images/logos/mingyulab.ico
+  description: 原魔计算器|Genmo Calculator|Genshin impact damage calculator & other tools
+- name: 首页 | 胡桃工具箱
+  url: https://hut.ao/
+  img: /images/logos/HeroImageLogo.png
+  description: 一个实用的多功能原神工具箱
+- name: 首页 | Snap Genshin
+  url: https://www.snapgenshin.com/home/
+  img: /images/logos/snapgenshin.ico
+  description: 你一定会喜欢的原神工具全家桶
+- name: disease.sh
+  url: https://disease.sh/
+  img: /images/logos/disease.png
+  description: An open API for disease-related statistics. No signup required.
+    Over 45,000,000,000+ Requests & 50 TB of Data Served to Date!
+- name: 音乐解锁
+  url: https://demo.unlock-music.dev/
+  img: /images/logos/unlock-music.png
+  description: 音乐解锁 - 在任何设备上解锁已购的加密音乐！
+- name: 在线转换电子书文件
+  url: https://www.aconvert.com/cn/ebook/
+  img: /images/logos/default.png
+  description: 在线转换电子书文件 - 将电子书文件转换为AZW3,EPUB,DOCX,FB2,HTML,LIT,MOBI,PDF,RTF,SNB,TCR或TXT文件。
+- name: WEB骇客 - HTML5, CSS3, WEB前端开发技术
+  url: https://www.webhek.com/
+  img: /images/logos/default.png
+  description: 关注HTML5、CSS3等浏览器前端技术，包括各种HTML5、CSS3资料，HTML5、CSS3网站、HTML5、CSS3资讯、HTML5、CSS3应用、HTML5、CSS3游戏、HTML5、CSS3教程、HTML5、CSS3视频、HTML5、CSS3论坛等。
+- name: 用HTML5实现的各种排序算法的动画比较
+  url: https://www.webhek.com/post/comparison-sort/
+  img: /images/logos/default.png
+  description: 这是旧金山大学的David Galles教授用HTML5+js制作的数据结构动画课件中算法动画比较部分。
+- name: 一网一匠
+  url: https://www.ywyj.cn/
+  img: /images/logos/default.png
+  description: 一网一匠极速版 - 一起发现有趣的新产品
+- name: iTab新标签页
+  url: https://go.itab.link/
+  img: /images/logos/itab.png
+  description: new Tab,自定义您新标签页上的网站和壁纸以及搜索引擎,创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制
+- name: 青柠起始页
+  url: https://limestart.cn/
+  img: /images/logos/limestart.png
+  description: 青柠起始页由毛若昕和杨尚臻开发,是一个简洁、美观、实用的浏览器起始页。青柠起始页以最简洁的界面容纳了多引擎搜索、自定义网站捷径、便笺等实用功能；您可依据喜好对青柠起始页进行高度自定义,让您的网上冲浪体验更加舒心。
+- name: 小米云服务
+  url: https://i.mi.com/
+  img: /images/logos/mi_cs.ico
+  description: 小米云服务
+- name: vivo云服务
+  url: https://yun.vivo.com.cn/#/home
+  img: /images/logos/vivo.ico
+  description: vivo云服务

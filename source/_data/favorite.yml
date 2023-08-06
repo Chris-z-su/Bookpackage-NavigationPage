@@ -1,0 +1,25 @@
+# 常用推荐
+- name: Bookpackage
+  url: https://chris-z-su.github.io/
+  img: /images/logo.png
+  description: 为实现中华民族伟大复兴的中国梦而努力奋斗。
+- name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+  url: https://www.bilibili.com/
+  img: /images/logos/bilibili.png
+  description: 哔哩哔哩(bilibili.com)是国内知名的视频弹幕网站,这里有及时的动漫新番,活跃的ACG氛围,有创意的Up主。大家可以在这里找到许多欢乐。
+- name: Github
+  url: https://github.com/
+  img: /images/logos/github.png
+  description: 面向开源及私有软件项目的托管平台
+- name: 原神社区-米游社
+  url: https://bbs.mihoyo.com/ys/
+  img: /images/logos/ys_bbs_mihoyo.ico
+  description: 米游社-原神社区是米哈游miHoYo旗下原神游戏玩家社区，这里集合了原神游戏玩家互动，官方资讯、福利趣闻和同人作品，踏入充满冒险的神奇世界 - 米哈游原神
+- name: Pandora ChatGPT
+  url: https://chat.zhile.io/
+  img: /images/logos/openai.ico
+  description: A conversational AI system that listens, learns, and challenges
+- name: 小米云服务
+  url: https://i.mi.com/
+  img: /images/logos/mi_cs.ico
+  description: 小米云服务
