@@ -15,3 +15,11 @@
   url: https://bbs.mihoyo.com/ys/
   img: /images/logos/ys_bbs_mihoyo.ico
   description: 米游社-原神社区是米哈游miHoYo旗下原神游戏玩家社区，这里集合了原神游戏玩家互动，官方资讯、福利趣闻和同人作品，踏入充满冒险的神奇世界 - 米哈游原神
+- name: Pandora ChatGPT
+  url: https://chat.zhile.io/
+  img: /images/logos/openai.ico
+  description: A conversational AI system that listens, learns, and challenges
+- name: 小米云服务
+  url: https://i.mi.com/
+  img: /images/logos/mi_cs.ico
+  description: 小米云服务

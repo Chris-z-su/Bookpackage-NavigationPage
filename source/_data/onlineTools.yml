@@ -31,6 +31,34 @@
   url: https://www.sogou.com/
   img: /images/logos/sogou_logo.png
   description: 搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务。
+- name: OpenAI
+  url: https://openai.com/
+  img: /images/logos/openai.png
+  description: Creating safe AGI that benefits all of humanity
+- name: ChatGPT
+  url: https://chat.openai.com/
+  img: /images/logos/openai.png
+  description: We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
+- name: Pandora ChatGPT
+  url: https://chat.zhile.io/
+  img: /images/logos/openai.ico
+  description: A conversational AI system that listens, learns, and challenges
+- name: shared ChatGPT
+  url: https://chat-shared2.zhile.io/
+  img: /images/logos/default.png
+  description: 潘多拉, 一个让你呼吸顺畅的ChatGPT.https://github.com/pengzhile/pandora
+- name: 免费的共享ChatGPT账号
+  url: https://chat-shared2.zhile.io/shared.html
+  img: /images/logos/default.png
+  description: 免费的共享ChatGPT账号
+- name: 免费学习测试(ChatGPT)
+  url: https://chat.wuguokai.cn/#/chat/
+  img: /images/logos/default.png
+  description: 免费学习测试
+- name: Phind:AI search engine
+  url: https://www.phind.com/
+  img: /images/logos/phind.png
+  description: Get instant answers, explanations, and examples for all of your technical questions.
 - name: 百度识图搜索结果
   url: https://graph.baidu.com/pcpage/index?tpl_from=pc
   img: /images/logos/baidu_logo.png
@@ -159,6 +187,10 @@
   url: https://wallhere.com/
   img: /images/logos/wallhere.png
   description: 免费下载超过 1557214 高清桌面壁纸, 世界著名的壁纸网站.
+- name: 路过图床
+  url: https://imgse.com/
+  img: /images/logos/imgse.png
+  description: 路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.
 - name: pixiv
   url: https://www.pixiv.net/
   img: /images/logos/pixiv.ico
@@ -199,18 +231,14 @@
   url: http://www.haoshici.com/
   img: /images/logos/haoshici.ico
   description: 将中国历代诗词作品总汇于一站的诗词全集的纂辑计划,肇始于2009年。中华诗词网迄今已录得44,479位作者约1,174,695首作品。
-- name: iTab新标签页
-  url: https://go.itab.link/
-  img: /images/logos/itab.png
-  description: new Tab,自定义您新标签页上的网站和壁纸以及搜索引擎,创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制
-- name: 青柠起始页
-  url: https://limestart.cn/
-  img: /images/logos/limestart.png
-  description: 青柠起始页由毛若昕和杨尚臻开发,是一个简洁、美观、实用的浏览器起始页。青柠起始页以最简洁的界面容纳了多引擎搜索、自定义网站捷径、便笺等实用功能；您可依据喜好对青柠起始页进行高度自定义,让您的网上冲浪体验更加舒心。
 - name: 原神地图
   url: https://v3.yuanshen.site/#/
   img: /images/logos/yuanshen_map.png
   description: 在线原神地图网页版、Windows客户端
+- name: 原神WIKI_BWIKI_哔哩哔哩
+  url: https://wiki.biligame.com/ys/首页
+  img: /images/logos/yswiki_logo.png
+  description: 欢迎来到原神WIKI,这是开放编辑由玩家制作的游戏数据库,整合了详细原神相关图鉴资料和攻略内容,为玩家提供最全面的原神大地图全资源点工具。
 - name: 原魔计算器
   url: https://genshin.mingyulab.com/
   img: /images/logos/mingyulab.ico
@@ -228,15 +256,14 @@
   img: /images/logos/disease.png
   description: An open API for disease-related statistics. No signup required.
     Over 45,000,000,000+ Requests & 50 TB of Data Served to Date!
-
-- name: 在线转换电子书文件
-  url: https://www.aconvert.com/cn/ebook/
-  img: /images/logos/default.png
-  description: 在线转换电子书文件 - 将电子书文件转换为AZW3,EPUB,DOCX,FB2,HTML,LIT,MOBI,PDF,RTF,SNB,TCR或TXT文件。
 - name: 音乐解锁
   url: https://demo.unlock-music.dev/
   img: /images/logos/unlock-music.png
   description: 音乐解锁 - 在任何设备上解锁已购的加密音乐！
+- name: 在线转换电子书文件
+  url: https://www.aconvert.com/cn/ebook/
+  img: /images/logos/default.png
+  description: 在线转换电子书文件 - 将电子书文件转换为AZW3,EPUB,DOCX,FB2,HTML,LIT,MOBI,PDF,RTF,SNB,TCR或TXT文件。
 - name: WEB骇客 - HTML5, CSS3, WEB前端开发技术
   url: https://www.webhek.com/
   img: /images/logos/default.png
@@ -249,11 +276,19 @@
   url: https://www.ywyj.cn/
   img: /images/logos/default.png
   description: 一网一匠极速版 - 一起发现有趣的新产品
+- name: iTab新标签页
+  url: https://go.itab.link/
+  img: /images/logos/itab.png
+  description: new Tab,自定义您新标签页上的网站和壁纸以及搜索引擎,创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制
+- name: 青柠起始页
+  url: https://limestart.cn/
+  img: /images/logos/limestart.png
+  description: 青柠起始页由毛若昕和杨尚臻开发,是一个简洁、美观、实用的浏览器起始页。青柠起始页以最简洁的界面容纳了多引擎搜索、自定义网站捷径、便笺等实用功能；您可依据喜好对青柠起始页进行高度自定义,让您的网上冲浪体验更加舒心。
 - name: 小米云服务
   url: https://i.mi.com/
   img: /images/logos/mi_cs.ico
   description: 小米云服务
 - name: vivo云服务
   url: https://yun.vivo.com.cn/#/home
-  img: /images/logos/default.png
+  img: /images/logos/vivo.ico
   description: vivo云服务
