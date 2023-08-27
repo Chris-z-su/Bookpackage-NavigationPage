@@ -55,3 +55,15 @@
   url: https://hellogithub.com/
   img: /images/logos/hellogithub.png
   description: 分享 GitHub 上有趣、入门级的开源项目
+- name: 弟弟快看-教程，程序员编程资料站 | DDKK.COM
+  url: https://www.ddkk.com/
+  img: /images/logos/ddkk.ico
+  description: 弟弟快看-教程，内容覆盖、Java核心、J2EE框架、ORM框架、前端框架、安全框架、API网关、消息队列、作业调度、注册中心、配置中心、链路追踪、服务保障、搜索引擎、容器服务、开发工具、监控工具、设计模式、架构设计、工作流框架、服务器框架、大数据框架、分布式事务、缓存-数据库、数据库连接池、数据库中间件、XML语言教程、等技术栈
+- name: 没有气的汽水
+  url: https://someget.cn/
+  img: /images/logos/someget.png
+  description: 没有气的汽水
+- name: 中文博客列表导航
+  url: https://zhblogs.ohyee.cc/
+  img: /images/logos/zhblogs.png
+  description: 尝试链接几乎所有的中文博客

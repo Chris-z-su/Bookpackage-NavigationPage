@@ -284,6 +284,18 @@
   url: https://limestart.cn/
   img: /images/logos/limestart.png
   description: 青柠起始页由毛若昕和杨尚臻开发,是一个简洁、美观、实用的浏览器起始页。青柠起始页以最简洁的界面容纳了多引擎搜索、自定义网站捷径、便笺等实用功能；您可依据喜好对青柠起始页进行高度自定义,让您的网上冲浪体验更加舒心。
+- name: 自由钢琴 - AutoPiano | 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
+  url: https://www.autopiano.cn/
+  img: /images/logos/autopiano.png
+  description: 自由钢琴(AutoPiano)是利用HTML5技术开发的在线钢琴应用，致力于为钢琴爱好者、音乐爱好者提供一个优雅、简洁的平台，在学习工作之余可以在线弹钢琴，享受音乐、生活的美好。自由钢琴支持自动演奏和手动演奏，简单易学，快来试试吧~
+- name: Calendarpedia - Your source for calendars
+  url: https://www.calendarpedia.com/
+  img: /images/logos/calendarpedia.png
+  description: Lots of Calendars - Yearly, monthly and weekly calendars, printable templates for Excel/PDF/Word, federal holidays and more...
+- name: 可打印的日历和计划者 - 7calendar
+  url: https://7calendar.com/cn/
+  img: /images/logos/7calendar.png
+  description: 可打印的空白日历 八月 2023 - 全部
 - name: 小米云服务
   url: https://i.mi.com/
   img: /images/logos/mi_cs.ico
