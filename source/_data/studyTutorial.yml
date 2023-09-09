@@ -119,3 +119,11 @@
   url: https://www.hello-algo.com/
   img: /images/logos/default.png
   description: 动画图解、能运行、可讨论的数据结构与算法快速入门教程.https://github.com/krahets/hello-algo
+- name: math.js
+  url: https://mathjs.org/docs/index.html
+  img: /images/logos/mathjs.ico
+  description: Math.js is an extensive math library for JavaScript and Node.js. It features big numbers, complex numbers, matrices, units, and a flexible expression parser.
+- name: CS-Notes 面试笔记
+  url: http://www.cyc2018.xyz/
+  img: /images/logos/cyc2018.png
+  description: CS-Notes 面试笔记
