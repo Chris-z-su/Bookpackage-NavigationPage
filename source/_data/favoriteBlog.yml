@@ -63,6 +63,10 @@
   url: https://someget.cn/
   img: /images/logos/someget.png
   description: 没有气的汽水
+- name: 瑝琦的博客
+  url: https://knightyun.github.io/
+  img: https://knightyun.github.io/assets/img/user.png
+  description: 基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升
 - name: 中文博客列表导航
   url: https://zhblogs.ohyee.cc/
   img: /images/logos/zhblogs.png
