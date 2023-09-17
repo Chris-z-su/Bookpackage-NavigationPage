@@ -1,4 +1,8 @@
 # 博客收藏
+- name: 中文博客列表导航
+  url: https://zhblogs.ohyee.cc/
+  img: /images/logos/zhblogs.png
+  description: 尝试链接几乎所有的中文博客
 - name: Web前端导航
   url: http://www.alloyteam.com/nav/
   img: /images/logos/alloyteam.jpg
@@ -61,13 +65,21 @@
   description: 弟弟快看-教程，内容覆盖、Java核心、J2EE框架、ORM框架、前端框架、安全框架、API网关、消息队列、作业调度、注册中心、配置中心、链路追踪、服务保障、搜索引擎、容器服务、开发工具、监控工具、设计模式、架构设计、工作流框架、服务器框架、大数据框架、分布式事务、缓存-数据库、数据库连接池、数据库中间件、XML语言教程、等技术栈
 - name: 没有气的汽水
   url: https://someget.cn/
-  img: /images/logos/someget.png
+  img: /images/logos/someget_2.png
   description: 没有气的汽水
 - name: 瑝琦的博客
   url: https://knightyun.github.io/
   img: https://knightyun.github.io/assets/img/user.png
   description: 基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升
-- name: 中文博客列表导航
-  url: https://zhblogs.ohyee.cc/
-  img: /images/logos/zhblogs.png
-  description: 尝试链接几乎所有的中文博客
+- name: 麋鹿鲁哟 - 博客园
+  url: https://www.cnblogs.com/miluluyo/
+  img: /images/logos/cnblogs_miluluyo.png
+  description: 麋鹿鲁哟 - 博客园
+- name: Huang CanCan的博客 | BY Blog
+  url: https://lonelyrookie.github.io/
+  img: /images/logos/lonelyrookie.png
+  description: Every failure is leading towards success.
+- name: oldj's blog
+  url: https://oldj.net/
+  img: /images/logos/oldj.ico
+  description: oldj's blog

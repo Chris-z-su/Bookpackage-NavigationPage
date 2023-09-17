@@ -43,18 +43,14 @@
   url: https://chat.zhile.io/
   img: /images/logos/openai.ico
   description: A conversational AI system that listens, learns, and challenges
-- name: shared ChatGPT
+- name: 免费的共享ChatGPT账号
   url: https://chat-shared2.zhile.io/
   img: /images/logos/default.png
   description: 潘多拉, 一个让你呼吸顺畅的ChatGPT.https://github.com/pengzhile/pandora
-- name: 免费的共享ChatGPT账号
-  url: https://chat-shared2.zhile.io/shared.html
-  img: /images/logos/default.png
-  description: 免费的共享ChatGPT账号
-- name: 免费学习测试(ChatGPT)
-  url: https://chat.wuguokai.cn/#/chat/
-  img: /images/logos/default.png
-  description: 免费学习测试
+# - name: 免费学习测试(ChatGPT)
+#   url: https://chat.wuguokai.cn/#/chat/
+#   img: /images/logos/default.png
+#   description: 免费学习测试
 - name: Phind:AI search engine
   url: https://www.phind.com/
   img: /images/logos/phind.png
@@ -95,14 +91,14 @@
   url: https://translate.google.co.kr/
   img: /images/logos/google_translate.ico
   description: Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。
-- name: QQ邮箱
-  url: https://mail.qq.com/
-  img: /images/logos/qq-mail.png
-  description: QQ邮箱,为亿万用户提供高效稳定便捷的电子邮件服务。
 - name: 163网易免费邮-你的专业电子邮局
   url: https://mail.163.com/
   img: https://mail.163.com/favicon.ico
   description: 网易163免费邮箱,你的专业电子邮局,注册用户数超10亿,专业稳定安全。网易邮箱官方App“邮箱大师”帮您高效处理邮件,支持所有邮箱,并可在手机、Windows和Mac上多端协同使用。
+- name: QQ邮箱
+  url: https://mail.qq.com/
+  img: /images/logos/qq-mail.png
+  description: QQ邮箱,为亿万用户提供高效稳定便捷的电子邮件服务。
 - name: Gmail
   url: https://mail.google.com/
   img: /images/logos/gmail.ico
@@ -244,7 +240,7 @@
   img: /images/logos/mingyulab.ico
   description: 原魔计算器|Genmo Calculator|Genshin impact damage calculator & other tools
 - name: 首页 | 胡桃工具箱
-  url: https://hut.ao/
+  url: https://hut.ao/zh/
   img: /images/logos/HeroImageLogo.png
   description: 一个实用的多功能原神工具箱
 - name: 首页 | Snap Genshin

@@ -11,6 +11,10 @@
   url: https://www.google.cn/intl/zh-CN/chrome/
   img: /images/logos/google.png
   description: 得益于 Google 智能工具,Chrome 现在更易用、更安全、更快速。
+- name: Firefox 火狐浏览器 - 全新、安全、快速 | 官方最新下载
+  url: http://www.firefox.com.cn/
+  img: /images/logos/firefox.png
+  description: 下载由致力于互联网健康与隐私保护的非营利组织 Mozilla 全力开发的浏览器 — Firefox。Windows、Mac、Linux、Android、与 iOS 版皆可免费下载。
 - name: CCleaner
   url: https://www.ccleaner.com/
   img: /images/logos/ccleaner-icon.png
@@ -99,3 +103,11 @@
   url: https://final2x.tohru.top/zh/
   img: /images/logos/final2x.ico
   description: docs for Final2x
+- name: V2free
+  url: https://w1.v2free.top/user
+  img: /images/logos/v2free.png
+  description: V2free
+- name: Home - CODEX FFMPEG @ gyan.dev
+  url: https://www.gyan.dev/ffmpeg/
+  img: /images/logos/ffmpeg.png
+  description: FFMPEG
