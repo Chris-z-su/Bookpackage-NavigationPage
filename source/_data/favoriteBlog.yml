@@ -28,8 +28,8 @@
   img: /images/logos/algomooc.png
   description: 看动画,学算法,认准吴师兄,和吴师兄一起学算法。
 - name: wangxj2020
-  url: http://wangxj2020.gitee.io/
-  img: http://wangxj2020.gitee.io/favicon.png
+  url: http://wangxj2020.gitee.io/hexo/
+  img: http://wangxj2020.gitee.io/hexo/favicon.png
   description: wangxj2020
 - name: HCLonely Blog
   url: https://blog.hclonely.com/
@@ -83,3 +83,11 @@
   url: https://oldj.net/
   img: /images/logos/oldj.ico
   description: oldj's blog
+- name: SuYi-宿仪_-_随心写作，随缘阅读
+  url: https://www.thotz.top/
+  img: /images/logos/thotz.png
+  description: 这里是个人博客网站，你可以在这里找到很多新兴元素、互联网资源分享、学习笔记记录，更多的详情请点击后观看。
+- name: Alan明宇's Blog
+  url: https://alanwu.cc/
+  img: /images/logos/alanwu.png
+  description: Alan明宇's Blog，记录Everything
