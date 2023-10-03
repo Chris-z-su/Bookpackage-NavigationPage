@@ -300,3 +300,7 @@
   url: https://yun.vivo.com.cn/#/home
   img: /images/logos/vivo.ico
   description: vivo云服务
+- name: OPPO云服务
+  url: https://cloud.oppo.com/
+  img: /images/logos/oppo.png
+  description: OPPO云服务
