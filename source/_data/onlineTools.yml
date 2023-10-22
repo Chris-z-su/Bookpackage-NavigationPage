@@ -40,11 +40,11 @@
   img: /images/logos/openai.png
   description: We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
 - name: Pandora ChatGPT
-  url: https://chat.zhile.io/
+  url: https://chat1.zhile.io/
   img: /images/logos/openai.ico
   description: A conversational AI system that listens, learns, and challenges
 - name: 免费的共享ChatGPT账号
-  url: https://chat-shared2.zhile.io/
+  url: https://chat-shared3.zhile.io/
   img: /images/logos/default.png
   description: 潘多拉, 一个让你呼吸顺畅的ChatGPT.https://github.com/pengzhile/pandora
 # - name: 免费学习测试(ChatGPT)
