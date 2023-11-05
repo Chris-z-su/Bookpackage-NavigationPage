@@ -127,3 +127,11 @@
   url: http://www.cyc2018.xyz/
   img: /images/logos/cyc2018.png
   description: CS-Notes 面试笔记
+- name: 印象笔记网页版
+  url: https://app.yinxiang.com/Home.action
+  img: /images/logos/yinxiang.ico
+  description: 印象笔记网页版
+- name: 中文基督教大典___Fandom
+  url: https://christian.fandom.com/zh/wiki/
+  img: /images/logos/fandom.ico
+  description: 中文基督教大典 | Fandom
