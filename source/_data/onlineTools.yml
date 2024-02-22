@@ -47,14 +47,10 @@
   url: https://chat-shared3.zhile.io/
   img: /images/logos/default.png
   description: 潘多拉, 一个让你呼吸顺畅的ChatGPT.https://github.com/pengzhile/pandora
-# - name: 免费学习测试(ChatGPT)
-#   url: https://chat.wuguokai.cn/#/chat/
-#   img: /images/logos/default.png
-#   description: 免费学习测试
-- name: Phind:AI search engine
-  url: https://www.phind.com/
-  img: /images/logos/phind.png
-  description: Get instant answers, explanations, and examples for all of your technical questions.
+# - name: Phind:AI search engine
+#   url: https://www.phind.com/
+#   img: /images/logos/phind.png
+#   description: Get instant answers, explanations, and examples for all of your technical questions.
 - name: 百度识图搜索结果
   url: https://graph.baidu.com/pcpage/index?tpl_from=pc
   img: /images/logos/baidu_logo.png
@@ -160,7 +156,7 @@
   img: /images/logos/xbinweb.ico
   description: 跳出信息茧房,随机获取盲盒关键字。
 - name: Zilibrary - 数字图书馆。搜索书籍。免费下载书籍
-  url: https://zh.b-ok.asia/
+  url: https://zh.z-library.se/
   img: /images/logos/zilibrary_logo.png
   description: 数字图书馆。搜索书籍。免费下载书籍 | Z-Library. Download books for free. Find books
 - name: 熊猫搜书-熊猫搜索_聚合文档搜索导航
@@ -304,3 +300,15 @@
   url: https://cloud.oppo.com/
   img: /images/logos/oppo.png
   description: OPPO云服务
+- name: Notion-faster
+  url: https://www.notionfaster.org/
+  img: /images/logos/default.png
+  description: 用优质线路对Notion进行反向代理, 以加速Notion在中国大陆的访问速度, 解决Notion打不开、网速慢等问题。目前的权宜之计, Notion在中国大陆网络环境得到极大改善之时，就是此项目结束之日。
+- name: 基督教电子书分享
+  url: https://drive.my-elibrary.com/
+  img: /images/logos/my-elibrary.ico
+  description: 基督教电子书分享
+- name: MacVk 优质Mac软件下载
+  url: https://www.macvk.com/
+  img: /images/logos/macvk.ico
+  description: macOS应用,macOS应用分享,macOS应用推荐,mac应用下载排行,mac热门应用,mac软件,mac应用下载,苹果软件下载,mac软件下载,mac破解软件下载,精品mac应用
